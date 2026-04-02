@@ -1,0 +1,1335 @@
+{
+  "schema_version": "1.1",
+  "repository": {
+    "author": "asphalt123",
+    "name": "librewalk-walkthrough",
+    "description": "Community-driven open-source game walkthroughs",
+    "last_updated": "2026-04-02T16:37:24.381360+00:00"
+  },
+  "games": [
+    {
+      "id": "outer-worlds",
+      "title": "The Outer Worlds",
+      "platform": [
+        "PC"
+      ],
+      "coverUrl": "",
+      "categories": [
+        {
+          "id": "affaire-de-famille",
+          "title": "Affaire De Famille",
+          "guides": [
+            {
+              "id": "affaire-de-famille",
+              "title": "Quête : Le Fils Disparu",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/affaire-de-famille/affaire-de-famille-en.md",
+                "fr": "guides/outer-worlds/affaire-de-famille/affaire-de-famille-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "au-bout-du-spectre",
+          "title": "Au Bout Du Spectre",
+          "guides": [
+            {
+              "id": "au-bout-du-spectre",
+              "title": "Au bout du Spectre",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/au-bout-du-spectre/au-bout-du-spectre-en.md",
+                "fr": "guides/outer-worlds/au-bout-du-spectre/au-bout-du-spectre-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "aux-grands-mollusques-les-grands-remedes",
+          "title": "Aux Grands Mollusques Les Grands Remedes",
+          "guides": [
+            {
+              "id": "aux-grands-mollusques-les-grands-remedes",
+              "title": "Aux grands mollusques, les grands remèdes",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/aux-grands-mollusques-les-grands-remedes/aux-grands-mollusques-les-grands-remedes-en.md",
+                "fr": "guides/outer-worlds/aux-grands-mollusques-les-grands-remedes/aux-grands-mollusques-les-grands-remedes-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "capitaine-go-home",
+          "title": "Capitaine Go Home",
+          "guides": [
+            {
+              "id": "capitaine-go-home",
+              "title": "Capitaine, Go Home !",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/capitaine-go-home/capitaine-go-home-en.md",
+                "fr": "guides/outer-worlds/capitaine-go-home/capitaine-go-home-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "chez-spacer-s-choice-nous-mettons",
+          "title": "Chez Spacer S Choice Nous Mettons",
+          "guides": [
+            {
+              "id": "chez-spacer-s-choice-nous-mettons",
+              "title": "Chez Spacer's Choice, nous mettons...",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/chez-spacer-s-choice-nous-mettons/chez-spacer-s-choice-nous-mettons-en.md",
+                "fr": "guides/outer-worlds/chez-spacer-s-choice-nous-mettons/chez-spacer-s-choice-nous-mettons-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "danse-avec-les-porkystes",
+          "title": "Danse Avec Les Porkystes",
+          "guides": [
+            {
+              "id": "danse-avec-les-porkystes",
+              "title": "Clive le Boucher",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/danse-avec-les-porkystes/danse-avec-les-porkystes-en.md",
+                "fr": "guides/outer-worlds/danse-avec-les-porkystes/danse-avec-les-porkystes-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "demain-les-canides",
+          "title": "Demain Les Canides",
+          "guides": [
+            {
+              "id": "demain-les-canides",
+              "title": "Erreurs cachées",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/demain-les-canides/demain-les-canides-en.md",
+                "fr": "guides/outer-worlds/demain-les-canides/demain-les-canides-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "des-esprits-bienveillants",
+          "title": "Des Esprits Bienveillants",
+          "guides": [
+            {
+              "id": "des-esprits-bienveillants",
+              "title": "Guide The Outer Worlds : Retrouver Zoé",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/des-esprits-bienveillants/des-esprits-bienveillants-en.md",
+                "fr": "guides/outer-worlds/des-esprits-bienveillants/des-esprits-bienveillants-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ellie",
+          "title": "Ellie",
+          "guides": [
+            {
+              "id": "ellie",
+              "title": "Guide : The Outer Worlds - Quêtes d'Ellie",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/ellie/ellie-en.md",
+                "fr": "guides/outer-worlds/ellie/ellie-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "erreurs-cachees",
+          "title": "Erreurs Cachees",
+          "guides": [
+            {
+              "id": "erreurs-cachees",
+              "title": "Erreurs cachées",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/erreurs-cachees/erreurs-cachees-en.md",
+                "fr": "guides/outer-worlds/erreurs-cachees/erreurs-cachees-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "et-je-n-aurai-pas-besoin-de-clients",
+          "title": "Et Je N Aurai Pas Besoin De Clients",
+          "guides": [
+            {
+              "id": "et-je-n-aurai-pas-besoin-de-clients",
+              "title": "Et je n'aurai pas besoin de clients",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/et-je-n-aurai-pas-besoin-de-clients/et-je-n-aurai-pas-besoin-de-clients-en.md",
+                "fr": "guides/outer-worlds/et-je-n-aurai-pas-besoin-de-clients/et-je-n-aurai-pas-besoin-de-clients-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "et-l-electricite-fut",
+          "title": "Et L Electricite Fut",
+          "guides": [
+            {
+              "id": "et-l-electricite-fut",
+              "title": "The Outer Worlds – Quête d'Edgewater",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/et-l-electricite-fut/et-l-electricite-fut-en.md",
+                "fr": "guides/outer-worlds/et-l-electricite-fut/et-l-electricite-fut-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "faq-vos-questions-nos-reponses",
+          "title": "Faq Vos Questions Nos Reponses",
+          "guides": [
+            {
+              "id": "faq-vos-questions-nos-reponses",
+              "title": "**The Outer Worlds** - Aide et Questions",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/faq-vos-questions-nos-reponses/faq-vos-questions-nos-reponses-en.md",
+                "fr": "guides/outer-worlds/faq-vos-questions-nos-reponses/faq-vos-questions-nos-reponses-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fondation",
+          "title": "Fondation",
+          "guides": [
+            {
+              "id": "fondation",
+              "title": "La Vallée d'Émeraude : Éliminer Edgewater",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/fondation/fondation-en.md",
+                "fr": "guides/outer-worlds/fondation/fondation-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "helen-et-les-limacons",
+          "title": "Helen Et Les Limacons",
+          "guides": [
+            {
+              "id": "helen-et-les-limacons",
+              "title": "Helen et les limaçons",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/helen-et-les-limacons/helen-et-les-limacons-en.md",
+                "fr": "guides/outer-worlds/helen-et-les-limacons/helen-et-les-limacons-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "iconoclastes",
+          "title": "Iconoclastes",
+          "guides": [
+            {
+              "id": "iconoclastes",
+              "title": "Guide des Iconoclastes dans The Outer Worlds",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/iconoclastes/iconoclastes-en.md",
+                "fr": "guides/outer-worlds/iconoclastes/iconoclastes-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ingenieurs-affoles",
+          "title": "Ingenieurs Affoles",
+          "guides": [
+            {
+              "id": "ingenieurs-affoles",
+              "title": "Récupération des trois livres d'apprentissage",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/ingenieurs-affoles/ingenieurs-affoles-en.md",
+                "fr": "guides/outer-worlds/ingenieurs-affoles/ingenieurs-affoles-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "journalisme-d-investigation",
+          "title": "Journalisme D Investigation",
+          "guides": [
+            {
+              "id": "journalisme-d-investigation",
+              "title": "journalisme-d-investigation",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/journalisme-d-investigation/journalisme-d-investigation-en.md",
+                "fr": "guides/outer-worlds/journalisme-d-investigation/journalisme-d-investigation-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "l-apprenti-alchimiste",
+          "title": "L Apprenti Alchimiste",
+          "guides": [
+            {
+              "id": "l-apprenti-alchimiste",
+              "title": "Quête secondaire : Musc de Raptidon",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/l-apprenti-alchimiste/l-apprenti-alchimiste-en.md",
+                "fr": "guides/outer-worlds/l-apprenti-alchimiste/l-apprenti-alchimiste-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "la-chasse-ultime-de-m-pickett",
+          "title": "La Chasse Ultime De M Pickett",
+          "guides": [
+            {
+              "id": "la-chasse-ultime-de-m-pickett",
+              "title": "Une piste pour Pickett",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/la-chasse-ultime-de-m-pickett/la-chasse-ultime-de-m-pickett-en.md",
+                "fr": "guides/outer-worlds/la-chasse-ultime-de-m-pickett/la-chasse-ultime-de-m-pickett-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "la-reine-de-la-productivite",
+          "title": "La Reine De La Productivite",
+          "guides": [
+            {
+              "id": "la-reine-de-la-productivite",
+              "title": "La Reine de la productivité",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/la-reine-de-la-productivite/la-reine-de-la-productivite-en.md",
+                "fr": "guides/outer-worlds/la-reine-de-la-productivite/la-reine-de-la-productivite-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "le-dernier-role-d-helen-halcyon",
+          "title": "Le Dernier Role D Helen Halcyon",
+          "guides": [
+            {
+              "id": "le-dernier-role-d-helen-halcyon",
+              "title": "Le dernier rôle d'Helen Halcyon",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/le-dernier-role-d-helen-halcyon/le-dernier-role-d-helen-halcyon-en.md",
+                "fr": "guides/outer-worlds/le-dernier-role-d-helen-halcyon/le-dernier-role-d-helen-halcyon-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "le-marteau-de-vulcain",
+          "title": "Le Marteau De Vulcain",
+          "guides": [
+            {
+              "id": "le-marteau-de-vulcain",
+              "title": "Quête : Le Fabricant d'Armes",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/le-marteau-de-vulcain/le-marteau-de-vulcain-en.md",
+                "fr": "guides/outer-worlds/le-marteau-de-vulcain/le-marteau-de-vulcain-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "le-monstre-de-phaeton",
+          "title": "Le Monstre De Phaeton",
+          "guides": [
+            {
+              "id": "le-monstre-de-phaeton",
+              "title": "Quête secondaire : Le monstre de PHAETON",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/le-monstre-de-phaeton/le-monstre-de-phaeton-en.md",
+                "fr": "guides/outer-worlds/le-monstre-de-phaeton/le-monstre-de-phaeton-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "le-palais-des-glaces",
+          "title": "Le Palais Des Glaces",
+          "guides": [
+            {
+              "id": "le-palais-des-glaces",
+              "title": "Quête : Station SRH-1084",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/le-palais-des-glaces/le-palais-des-glaces-en.md",
+                "fr": "guides/outer-worlds/le-palais-des-glaces/le-palais-des-glaces-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "le-petit-automeca-perdu",
+          "title": "Le Petit Automeca Perdu",
+          "guides": [
+            {
+              "id": "le-petit-automeca-perdu",
+              "title": "Le Petit Automéca Perdu",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/le-petit-automeca-perdu/le-petit-automeca-perdu-en.md",
+                "fr": "guides/outer-worlds/le-petit-automeca-perdu/le-petit-automeca-perdu-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "le-peuple-cache",
+          "title": "Le Peuple Cache",
+          "guides": [
+            {
+              "id": "le-peuple-cache",
+              "title": "À la recherche de Braxton",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/le-peuple-cache/le-peuple-cache-en.md",
+                "fr": "guides/outer-worlds/le-peuple-cache/le-peuple-cache-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "le-scaphandre-imprudent",
+          "title": "Le Scaphandre Imprudent",
+          "guides": [
+            {
+              "id": "le-scaphandre-imprudent",
+              "title": "Mission: La Styliste de Byzance",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/le-scaphandre-imprudent/le-scaphandre-imprudent-en.md",
+                "fr": "guides/outer-worlds/le-scaphandre-imprudent/le-scaphandre-imprudent-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "le-sceau-de-la-bureaucratie",
+          "title": "Le Sceau De La Bureaucratie",
+          "guides": [
+            {
+              "id": "le-sceau-de-la-bureaucratie",
+              "title": "Le Sceau de la Bureaucratie",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/le-sceau-de-la-bureaucratie/le-sceau-de-la-bureaucratie-en.md",
+                "fr": "guides/outer-worlds/le-sceau-de-la-bureaucratie/le-sceau-de-la-bureaucratie-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "les-armes-du-grand-vide",
+          "title": "Les Armes Du Grand Vide",
+          "guides": [
+            {
+              "id": "les-armes-du-grand-vide",
+              "title": "Les Armes Scientifiques",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/les-armes-du-grand-vide/les-armes-du-grand-vide-en.md",
+                "fr": "guides/outer-worlds/les-armes-du-grand-vide/les-armes-du-grand-vide-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "les-cavernes-du-zele",
+          "title": "Les Cavernes Du Zele",
+          "guides": [
+            {
+              "id": "les-cavernes-du-zele",
+              "title": "Les Cavernes du Zèle",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/les-cavernes-du-zele/les-cavernes-du-zele-en.md",
+                "fr": "guides/outer-worlds/les-cavernes-du-zele/les-cavernes-du-zele-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "les-maitres-du-monde",
+          "title": "Les Maitres Du Monde",
+          "guides": [
+            {
+              "id": "les-maitres-du-monde",
+              "title": "Guide : Rencontre avec Sophia Akande à Byzance",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/les-maitres-du-monde/les-maitres-du-monde-en.md",
+                "fr": "guides/outer-worlds/les-maitres-du-monde/les-maitres-du-monde-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "mandibules-diaboliques",
+          "title": "Mandibules Diaboliques",
+          "guides": [
+            {
+              "id": "mandibules-diaboliques",
+              "title": "Guide The Outer Worlds : Mission Berthold",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/mandibules-diaboliques/mandibules-diaboliques-en.md",
+                "fr": "guides/outer-worlds/mandibules-diaboliques/mandibules-diaboliques-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "mercenaires-contre-mercenaires",
+          "title": "Mercenaires Contre Mercenaires",
+          "guides": [
+            {
+              "id": "mercenaires-contre-mercenaires",
+              "title": "Mercenaires contre mercenaires",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/mercenaires-contre-mercenaires/mercenaires-contre-mercenaires-en.md",
+                "fr": "guides/outer-worlds/mercenaires-contre-mercenaires/mercenaires-contre-mercenaires-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "monarch-stellar-industries",
+          "title": "Monarch Stellar Industries",
+          "guides": [
+            {
+              "id": "monarch-stellar-industries",
+              "title": "Monarch Stellar Industries",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/monarch-stellar-industries/monarch-stellar-industries-en.md",
+                "fr": "guides/outer-worlds/monarch-stellar-industries/monarch-stellar-industries-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "monarque",
+          "title": "Monarque",
+          "guides": [
+            {
+              "id": "monarque",
+              "title": "Quêtes secondaires sur Monarque",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/monarque/monarque-en.md",
+                "fr": "guides/outer-worlds/monarque/monarque-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nos-trop-chers-defunts",
+          "title": "Nos Trop Chers Defunts",
+          "guides": [
+            {
+              "id": "nos-trop-chers-defunts",
+              "title": "Silas et les redevances",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/nos-trop-chers-defunts/nos-trop-chers-defunts-en.md",
+                "fr": "guides/outer-worlds/nos-trop-chers-defunts/nos-trop-chers-defunts-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "parvati",
+          "title": "Parvati",
+          "guides": [
+            {
+              "id": "parvati",
+              "title": "Guide The Outer Worlds : Quêtes de Parvati",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/parvati/parvati-en.md",
+                "fr": "guides/outer-worlds/parvati/parvati-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "passeport-pour-l-aventure",
+          "title": "Passeport Pour L Aventure",
+          "guides": [
+            {
+              "id": "passeport-pour-l-aventure",
+              "title": "La Clé de Navigation vers Stella Bay",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/passeport-pour-l-aventure/passeport-pour-l-aventure-en.md",
+                "fr": "guides/outer-worlds/passeport-pour-l-aventure/passeport-pour-l-aventure-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "pilules-fetiches",
+          "title": "Pilules Fetiches",
+          "guides": [
+            {
+              "id": "pilules-fetiches",
+              "title": "Nyoka et les Stimulants",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/pilules-fetiches/pilules-fetiches-en.md",
+                "fr": "guides/outer-worlds/pilules-fetiches/pilules-fetiches-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quetes-secondaires-0",
+          "title": "Quetes Secondaires 0",
+          "guides": [
+            {
+              "id": "quetes-secondaires-0",
+              "title": "Guide The Outer Worlds : Péril sur Gorgone",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/quetes-secondaires-0/quetes-secondaires-0-en.md",
+                "fr": "guides/outer-worlds/quetes-secondaires-0/quetes-secondaires-0-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quetes-secondaires-1",
+          "title": "Quetes Secondaires 1",
+          "guides": [
+            {
+              "id": "quetes-secondaires-1",
+              "title": "Quêtes Secondaires - Meurtre sur Eridan",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/quetes-secondaires-1/quetes-secondaires-1-en.md",
+                "fr": "guides/outer-worlds/quetes-secondaires-1/quetes-secondaires-1-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "radio-libre-monarque",
+          "title": "Radio Libre Monarque",
+          "guides": [
+            {
+              "id": "radio-libre-monarque",
+              "title": "radio-libre-monarque",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/radio-libre-monarque/radio-libre-monarque-en.md",
+                "fr": "guides/outer-worlds/radio-libre-monarque/radio-libre-monarque-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "reconnaissance-de-dettes",
+          "title": "Reconnaissance De Dettes",
+          "guides": [
+            {
+              "id": "reconnaissance-de-dettes",
+              "title": "Passeport pour l'aventure",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/reconnaissance-de-dettes/reconnaissance-de-dettes-en.md",
+                "fr": "guides/outer-worlds/reconnaissance-de-dettes/reconnaissance-de-dettes-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "recruter-felix",
+          "title": "Recruter Felix",
+          "guides": [
+            {
+              "id": "recruter-felix",
+              "title": "Recruter Félix",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/recruter-felix/recruter-felix-en.md",
+                "fr": "guides/outer-worlds/recruter-felix/recruter-felix-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "recuperateur-stellaire",
+          "title": "Recuperateur Stellaire",
+          "guides": [
+            {
+              "id": "recuperateur-stellaire",
+              "title": "SubLight",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/recuperateur-stellaire/recuperateur-stellaire-en.md",
+                "fr": "guides/outer-worlds/recuperateur-stellaire/recuperateur-stellaire-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "rendez-vous-avec-gaia",
+          "title": "Rendez Vous Avec Gaia",
+          "guides": [
+            {
+              "id": "rendez-vous-avec-gaia",
+              "title": "Envoi d'un message vers la Terre",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/rendez-vous-avec-gaia/rendez-vous-avec-gaia-en.md",
+                "fr": "guides/outer-worlds/rendez-vous-avec-gaia/rendez-vous-avec-gaia-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "roseway",
+          "title": "Roseway",
+          "guides": [
+            {
+              "id": "roseway",
+              "title": "Quêtes secondaires de Roseway",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/roseway/roseway-en.md",
+                "fr": "guides/outer-worlds/roseway/roseway-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "roseway-pleines-dents",
+          "title": "Roseway Pleines Dents",
+          "guides": [
+            {
+              "id": "roseway-pleines-dents",
+              "title": "Le Laboratoire de Roseway",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/roseway-pleines-dents/roseway-pleines-dents-en.md",
+                "fr": "guides/outer-worlds/roseway-pleines-dents/roseway-pleines-dents-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "secret-mais-pas-oublie",
+          "title": "Secret Mais Pas Oublie",
+          "guides": [
+            {
+              "id": "secret-mais-pas-oublie",
+              "title": "Soluce The Outer Worlds — L'Espoir et l'Imposteur",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/secret-mais-pas-oublie/secret-mais-pas-oublie-en.md",
+                "fr": "guides/outer-worlds/secret-mais-pas-oublie/secret-mais-pas-oublie-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "seigneur-des-chimeres",
+          "title": "Seigneur Des Chimeres",
+          "guides": [
+            {
+              "id": "seigneur-des-chimeres",
+              "title": "Seigneur des Chimères",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/seigneur-des-chimeres/seigneur-des-chimeres-en.md",
+                "fr": "guides/outer-worlds/seigneur-des-chimeres/seigneur-des-chimeres-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "seul-contre-tous",
+          "title": "Seul Contre Tous",
+          "guides": [
+            {
+              "id": "seul-contre-tous",
+              "title": "La Quête de Jameson",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/seul-contre-tous/seul-contre-tous-en.md",
+                "fr": "guides/outer-worlds/seul-contre-tous/seul-contre-tous-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "signal-longue-distance",
+          "title": "Signal Longue Distance",
+          "guides": [
+            {
+              "id": "signal-longue-distance",
+              "title": "Le Laboratoire de Phinéas",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/signal-longue-distance/signal-longue-distance-en.md",
+                "fr": "guides/outer-worlds/signal-longue-distance/signal-longue-distance-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "silence-radio",
+          "title": "Silence Radio",
+          "guides": [
+            {
+              "id": "silence-radio",
+              "title": "Quête : Station relais hors-service",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/silence-radio/silence-radio-en.md",
+                "fr": "guides/outer-worlds/silence-radio/silence-radio-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "suivi-medical",
+          "title": "Suivi Medical",
+          "guides": [
+            {
+              "id": "suivi-medical",
+              "title": "The Outer Worlds – Quête : Cargaison médicale",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/suivi-medical/suivi-medical-en.md",
+                "fr": "guides/outer-worlds/suivi-medical/suivi-medical-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "un-long-lendemain",
+          "title": "Un Long Lendemain",
+          "guides": [
+            {
+              "id": "un-long-lendemain",
+              "title": "The Outer Worlds : Quête Secondaire – Abernathy",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/un-long-lendemain/un-long-lendemain-en.md",
+                "fr": "guides/outer-worlds/un-long-lendemain/un-long-lendemain-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "unite-de-nettoyage",
+          "title": "Unite De Nettoyage",
+          "guides": [
+            {
+              "id": "unite-de-nettoyage",
+              "title": "Réactivation de SAM",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/unite-de-nettoyage/unite-de-nettoyage-en.md",
+                "fr": "guides/outer-worlds/unite-de-nettoyage/unite-de-nettoyage-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "voyou-en-acier-inoxydable",
+          "title": "Voyou En Acier Inoxydable",
+          "guides": [
+            {
+              "id": "voyou-en-acier-inoxydable",
+              "title": "Le Meurtre à Stellar Bay",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T12:00:00+00:00",
+              "locales": {
+                "en": "guides/outer-worlds/voyou-en-acier-inoxydable/voyou-en-acier-inoxydable-en.md",
+                "fr": "guides/outer-worlds/voyou-en-acier-inoxydable/voyou-en-acier-inoxydable-fr.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quetes-principales",
+          "title": "Quêtes principales",
+          "guides": [
+            {
+              "id": "un-ephemere-gout-de-pourpreille",
+              "title": "Un éphémère goût de Pourpreille",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:10:09.384235+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/un-ephemere-gout-de-pourpreille-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/un-ephemere-gout-de-pourpreille-en.md"
+              }
+            },
+            {
+              "id": "le-perturbateur",
+              "title": "The Outer Worlds : Meurtre sur Eridan",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:11:37.439557+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/le-perturbateur-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/le-perturbateur-en.md"
+              }
+            },
+            {
+              "id": "le-prince-du-tossball",
+              "title": "Le prince du Tossball",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:15:06.468029+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/le-prince-du-tossball-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/le-prince-du-tossball-en.md"
+              }
+            },
+            {
+              "id": "une-accusation-avortee",
+              "title": "Une accusation avortée",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:16:59.120398+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/une-accusation-avortee-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/une-accusation-avortee-en.md"
+              }
+            },
+            {
+              "id": "par-l-instinct-mu",
+              "title": "Par l'instinct mû",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:17:28.928451+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/par-l-instinct-mu-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/par-l-instinct-mu-en.md"
+              }
+            },
+            {
+              "id": "l-infernale-machine-explosive-d-helen-halcyon",
+              "title": "L'infernale machine explosive d'Helen Halcyon",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:19:10.458302+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/l-infernale-machine-explosive-d-helen-halcyon-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/l-infernale-machine-explosive-d-helen-halcyon-en.md"
+              }
+            },
+            {
+              "id": "le-temps-d-un-souffle-je-m-attarde",
+              "title": "Le temps d'un souffle, je m'attarde",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:22:10.241802+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/le-temps-d-un-souffle-je-m-attarde-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/le-temps-d-un-souffle-je-m-attarde-en.md"
+              }
+            },
+            {
+              "id": "fuite-usiniere",
+              "title": "The Outer Worlds : Meurtre sur Eridan — Quête principale : Fuite usinière",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:24:12.510877+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/fuite-usiniere-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/fuite-usiniere-en.md"
+              }
+            },
+            {
+              "id": "la-bete-qui-bavait-de-haine-au-coeur-du-monde",
+              "title": "Quête principale : La thérapeuthe qui médicamentait la tête baillonnante deasti",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:24:35.989657+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/la-bete-qui-bavait-de-haine-au-coeur-du-monde-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/la-bete-qui-bavait-de-haine-au-coeur-du-monde-en.md"
+              }
+            },
+            {
+              "id": "la-piscine-de-l-horreur",
+              "title": "La piscine de l'horreur",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:25:03.309897+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/la-piscine-de-l-horreur-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/la-piscine-de-l-horreur-en.md"
+              }
+            },
+            {
+              "id": "disparition-etrange-d-un-gardien",
+              "title": "Grâce à cette section du **Guide The Outer Worlds : Meurtre sur Eridan** vous pourrez découvrir tous les éléments relatifs à la quête secondaire \"**Disparition étrange d'un gardien**\", notamment les conséquences des choix possibles ainsi que les récompenses obtenues",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:26:03.700283+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/disparition-etrange-d-un-gardien-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/disparition-etrange-d-un-gardien-en.md"
+              }
+            },
+            {
+              "id": "nous-te-saluons-o-rizzo",
+              "title": "Nous te saluons, ô Rizzo",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:28:10.233562+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/nous-te-saluons-o-rizzo-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/nous-te-saluons-o-rizzo-en.md"
+              }
+            },
+            {
+              "id": "le-dedale-vegetal-aux-sentiers-qui-bifurquent",
+              "title": "Le dédale végétal aux sentiers qui bifurquent",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:29:18.759359+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/le-dedale-vegetal-aux-sentiers-qui-bifurquent-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/le-dedale-vegetal-aux-sentiers-qui-bifurquent-en.md"
+              }
+            },
+            {
+              "id": "les-deux-bandits",
+              "title": "Les deux bandits",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:33:03.546236+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/les-deux-bandits-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/les-deux-bandits-en.md"
+              }
+            },
+            {
+              "id": "votre-amour-primate",
+              "title": "Votre amour primates – Quête secondaire",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:33:32.985479+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/votre-amour-primate-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/votre-amour-primate-en.md"
+              }
+            },
+            {
+              "id": "le-piege-pteromantas",
+              "title": "Le piège à Ptéromantas",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:36:36.958123+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/le-piege-pteromantas-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/le-piege-pteromantas-en.md"
+              }
+            },
+            {
+              "id": "ceux-qui-ont-fui-gorgone",
+              "title": "Ceux qui ont fui Gorgone",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:40:54.791176+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/ceux-qui-ont-fui-gorgone-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/ceux-qui-ont-fui-gorgone-en.md"
+              }
+            },
+            {
+              "id": "quasiment-sans-danger",
+              "title": "Quäsiment sans danger",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:42:31.832110+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/quasiment-sans-danger-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/quasiment-sans-danger-en.md"
+              }
+            },
+            {
+              "id": "pseudopomme-mecanique",
+              "title": "Pseudopomme mécanique",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:43:00.098823+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/pseudopomme-mecanique-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/pseudopomme-mecanique-en.md"
+              }
+            },
+            {
+              "id": "catapulte-sur-orbite",
+              "title": "Catapulté sur orbite",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:45:08.180343+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/catapulte-sur-orbite-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/catapulte-sur-orbite-en.md"
+              }
+            },
+            {
+              "id": "perilleuse-experience",
+              "title": "Périlleuse expérience",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:46:45.188863+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/perilleuse-experience-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/perilleuse-experience-en.md"
+              }
+            },
+            {
+              "id": "ambrose-parees",
+              "title": "Cette partie de la **Soluce The Outer Worlds : Péril sur Gorgone** est consacrée à la quête principale \"**Ambrose parées**\". Vous trouverez ici le cheminement intégral de la quête ainsi que des informations sur les choix possibles et les récompenses obtenues",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:47:51.593065+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/ambrose-parees-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/ambrose-parees-en.md"
+              }
+            },
+            {
+              "id": "sur-les-traces-d-un-heros",
+              "title": "Sur les traces d'un héros",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:50:25.904256+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/sur-les-traces-d-un-heros-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/sur-les-traces-d-un-heros-en.md"
+              }
+            },
+            {
+              "id": "amour-attendu-mort-en-vue",
+              "title": "Amour attendu, mort en vue",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:51:22.248192+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/amour-attendu-mort-en-vue-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/amour-attendu-mort-en-vue-en.md"
+              }
+            },
+            {
+              "id": "l-ami-lama",
+              "title": "L'Ami Lama",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:53:04.977361+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/l-ami-lama-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/l-ami-lama-en.md"
+              }
+            },
+            {
+              "id": "un-etranger-dans-une-etrange-contree",
+              "title": "Introduction",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:55:05.543169+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/un-etranger-dans-une-etrange-contree-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/un-etranger-dans-une-etrange-contree-en.md"
+              }
+            },
+            {
+              "id": "la-cite-et-les-astres",
+              "title": "The Outer Worlds — Quête : cargaison de produits chimiques",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:56:51.640670+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/la-cite-et-les-astres-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/la-cite-et-les-astres-en.md"
+              }
+            },
+            {
+              "id": "la-femme-demolie",
+              "title": "Traquer la Cartographe",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T13:59:14.978468+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/la-femme-demolie-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/la-femme-demolie-en.md"
+              }
+            },
+            {
+              "id": "radio-pirate",
+              "title": "Mission : Le Pic du Diable",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T14:00:55.649532+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/radio-pirate-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/radio-pirate-en.md"
+              }
+            },
+            {
+              "id": "le-meilleur-des-mondes",
+              "title": "Guide The Outer Worlds : La Prison de Tartare",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T14:04:10.125990+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/le-meilleur-des-mondes-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/le-meilleur-des-mondes-en.md"
+              }
+            },
+            {
+              "id": "l-imposteur",
+              "title": "Guide The Outer Worlds — Quêtes secondaires de l'Imposteur",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T14:06:01.010571+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/l-imposteur-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/l-imposteur-en.md"
+              }
+            },
+            {
+              "id": "vallee-d-emeraude",
+              "title": "Guide The Outer Worlds — Quêtes secondaires",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T14:08:29.065237+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/vallee-d-emeraude-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/vallee-d-emeraude-en.md"
+              }
+            },
+            {
+              "id": "une-poignee-d-empreintes-digitales",
+              "title": "Poursuite des fugitifs d'Edgewater",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T14:10:30.787551+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/une-poignee-d-empreintes-digitales-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/une-poignee-d-empreintes-digitales-en.md"
+              }
+            },
+            {
+              "id": "bat-les-robots",
+              "title": "Ludwig Miller, le chef de la sécurité de l'aire d'atterrissage, vous engage dans la lutte contre les robots. Cette partie de la **Soluce The Outer Worlds** vous dévoile le déroulement de cette quête",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T14:11:43.403902+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/bat-les-robots-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/bat-les-robots-en.md"
+              }
+            },
+            {
+              "id": "la-reine-de-la-productivite",
+              "title": "La Reine de la productivité",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T16:33:53.294162+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/la-reine-de-la-productivite-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/la-reine-de-la-productivite-en.md"
+              }
+            },
+            {
+              "id": "seigneur-des-chimeres",
+              "title": "Guide : Seigneur des Chimères",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T16:35:12.227319+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/seigneur-des-chimeres-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/seigneur-des-chimeres-en.md"
+              }
+            },
+            {
+              "id": "helen-et-les-limacons",
+              "title": "Guide : Helen et les limaçons",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T16:36:22.126646+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/helen-et-les-limacons-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/helen-et-les-limacons-en.md"
+              }
+            },
+            {
+              "id": "aux-grands-mollusques-les-grands-remedes",
+              "title": "Aux grands mollusques, les grands remèdes",
+              "author": "LibreWalk Bot",
+              "last_updated": "2026-04-02T16:37:24.381282+00:00",
+              "locales": {
+                "fr": "guides/outer-worlds/quetes-principales/aux-grands-mollusques-les-grands-remedes-fr.md",
+                "en": "guides/outer-worlds/quetes-principales/aux-grands-mollusques-les-grands-remedes-en.md"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
