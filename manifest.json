@@ -4,7 +4,7 @@
     "author": "LibreWalk Community",
     "name": "librewalk-guides",
     "description": "Open-source game walkthroughs",
-    "last_updated": "2026-04-09T17:43:33Z"
+    "last_updated": "2026-04-09T20:37:25Z"
   },
   "games": [
     {
@@ -1500,6 +1500,457 @@
                 "en": "outer-worlds/armes-et-armures-uniques/armures-uniques-en.md",
                 "fr": "outer-worlds/armes-et-armures-uniques/armures-uniques-fr.md",
                 "es": "outer-worlds/armes-et-armures-uniques/armures-uniques-es.md"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "disco-elysium",
+      "title": "disco-elysium",
+      "platform": [
+        "PC"
+      ],
+      "coverUrl": "assets/covers/disco-elysium.webp",
+      "categories": [
+        {
+          "id": "lenquête",
+          "title": "Lenquête",
+          "guides": [
+            {
+              "id": "un-cadavre-dans-la-cour",
+              "title": "Un cadavre dans la cour",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:17:56Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/un-cadavre-dans-la-cour-en.md",
+                "fr": "disco-elysium/lenquête/un-cadavre-dans-la-cour-fr.md",
+                "es": "disco-elysium/lenquête/un-cadavre-dans-la-cour-es.md"
+              }
+            },
+            {
+              "id": "interroger-garte-le-patron-du-café",
+              "title": "Interroger Garte, le patron du café",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:18:18Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/interroger-garte-le-patron-du-café-en.md",
+                "fr": "disco-elysium/lenquête/interroger-garte-le-patron-du-café-fr.md",
+                "es": "disco-elysium/lenquête/interroger-garte-le-patron-du-café-es.md"
+              }
+            },
+            {
+              "id": "inspecter-le-corps-de-la-victime",
+              "title": "Inspecter le corps de la victime",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:18:53Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/inspecter-le-corps-de-la-victime-en.md",
+                "fr": "disco-elysium/lenquête/inspecter-le-corps-de-la-victime-fr.md",
+                "es": "disco-elysium/lenquête/inspecter-le-corps-de-la-victime-es.md"
+              }
+            },
+            {
+              "id": "décrocher-le-cadavre",
+              "title": "Décrocher le cadavre",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:19:22Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/décrocher-le-cadavre-en.md",
+                "fr": "disco-elysium/lenquête/décrocher-le-cadavre-fr.md",
+                "es": "disco-elysium/lenquête/décrocher-le-cadavre-es.md"
+              }
+            },
+            {
+              "id": "réaliser-lautopsie-sur-site",
+              "title": "Réaliser l'autopsie sur site",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:19:45Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/réaliser-lautopsie-sur-site-en.md",
+                "fr": "disco-elysium/lenquête/réaliser-lautopsie-sur-site-fr.md",
+                "es": "disco-elysium/lenquête/réaliser-lautopsie-sur-site-es.md"
+              }
+            },
+            {
+              "id": "réfrigérer-le-corps-de-la-victime",
+              "title": "Réfrigérer le corps de la victime",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:20:06Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/réfrigérer-le-corps-de-la-victime-en.md",
+                "fr": "disco-elysium/lenquête/réfrigérer-le-corps-de-la-victime-fr.md",
+                "es": "disco-elysium/lenquête/réfrigérer-le-corps-de-la-victime-es.md"
+              }
+            },
+            {
+              "id": "se-débarrasser-de-lodeur-de-la-mort",
+              "title": "Se débarrasser de l'odeur de la mort",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:20:15Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/se-débarrasser-de-lodeur-de-la-mort-en.md",
+                "fr": "disco-elysium/lenquête/se-débarrasser-de-lodeur-de-la-mort-fr.md",
+                "es": "disco-elysium/lenquête/se-débarrasser-de-lodeur-de-la-mort-es.md"
+              }
+            },
+            {
+              "id": "envoyer-le-corps-à-linsitut-médico-légal",
+              "title": "Envoyer le corps à l'insitut médico-légal",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:20:33Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/envoyer-le-corps-à-linsitut-médico-légal-en.md",
+                "fr": "disco-elysium/lenquête/envoyer-le-corps-à-linsitut-médico-légal-fr.md",
+                "es": "disco-elysium/lenquête/envoyer-le-corps-à-linsitut-médico-légal-es.md"
+              }
+            },
+            {
+              "id": "ouvrir-la-benne-à-ordures",
+              "title": "Ouvrir la benne à ordures",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:20:50Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/ouvrir-la-benne-à-ordures-en.md",
+                "fr": "disco-elysium/lenquête/ouvrir-la-benne-à-ordures-fr.md",
+                "es": "disco-elysium/lenquête/ouvrir-la-benne-à-ordures-es.md"
+              }
+            },
+            {
+              "id": "qui-a-jeté-les-vêtements",
+              "title": "Qui a jeté les vêtements ?",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:21:13Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/qui-a-jeté-les-vêtements-en.md",
+                "fr": "disco-elysium/lenquête/qui-a-jeté-les-vêtements-fr.md",
+                "es": "disco-elysium/lenquête/qui-a-jeté-les-vêtements-es.md"
+              }
+            },
+            {
+              "id": "questionner-la-jardinière",
+              "title": "Questionner la jardinière",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:21:25Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/questionner-la-jardinière-en.md",
+                "fr": "disco-elysium/lenquête/questionner-la-jardinière-fr.md",
+                "es": "disco-elysium/lenquête/questionner-la-jardinière-es.md"
+              }
+            },
+            {
+              "id": "interroger-les-justiciers",
+              "title": "Interroger les justiciers",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:21:47Z",
+              "locales": {
+                "en": "disco-elysium/lenquête/interroger-les-justiciers-en.md",
+                "fr": "disco-elysium/lenquête/interroger-les-justiciers-fr.md",
+                "es": "disco-elysium/lenquête/interroger-les-justiciers-es.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "tâches-secondaires",
+          "title": "Tâches Secondaires",
+          "guides": [
+            {
+              "id": "le-borscht-spécial",
+              "title": "Le Borscht *spécial*",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:29:39Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/le-borscht-spécial-en.md",
+                "fr": "disco-elysium/tâches-secondaires/le-borscht-spécial-fr.md",
+                "es": "disco-elysium/tâches-secondaires/le-borscht-spécial-es.md"
+              }
+            },
+            {
+              "id": "ouvrir-la-porte-de-lappartement-pour-evrart",
+              "title": "Ouvrir la porte de l'appartement pour Evrart",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:29:55Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/ouvrir-la-porte-de-lappartement-pour-evrart-en.md",
+                "fr": "disco-elysium/tâches-secondaires/ouvrir-la-porte-de-lappartement-pour-evrart-fr.md",
+                "es": "disco-elysium/tâches-secondaires/ouvrir-la-porte-de-lappartement-pour-evrart-es.md"
+              }
+            },
+            {
+              "id": "obtenir-deux-signatures-pour-evrart",
+              "title": "Obtenir deux signatures pour Evrart",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:30:15Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/obtenir-deux-signatures-pour-evrart-en.md",
+                "fr": "disco-elysium/tâches-secondaires/obtenir-deux-signatures-pour-evrart-fr.md",
+                "es": "disco-elysium/tâches-secondaires/obtenir-deux-signatures-pour-evrart-es.md"
+              }
+            },
+            {
+              "id": "embellir-davantage-le-mur",
+              "title": "Embellir davantage le mur",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:30:36Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/embellir-davantage-le-mur-en.md",
+                "fr": "disco-elysium/tâches-secondaires/embellir-davantage-le-mur-fr.md",
+                "es": "disco-elysium/tâches-secondaires/embellir-davantage-le-mur-es.md"
+              }
+            },
+            {
+              "id": "trouver-le-mari-ouvrier",
+              "title": "Trouver le mari ouvrier",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:30:53Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/trouver-le-mari-ouvrier-en.md",
+                "fr": "disco-elysium/tâches-secondaires/trouver-le-mari-ouvrier-fr.md",
+                "es": "disco-elysium/tâches-secondaires/trouver-le-mari-ouvrier-es.md"
+              }
+            },
+            {
+              "id": "le-cadavre-sur-la-promenade",
+              "title": "Le cadavre sur la promenade",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:31:11Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/le-cadavre-sur-la-promenade-en.md",
+                "fr": "disco-elysium/tâches-secondaires/le-cadavre-sur-la-promenade-fr.md",
+                "es": "disco-elysium/tâches-secondaires/le-cadavre-sur-la-promenade-es.md"
+              }
+            },
+            {
+              "id": "apporter-loiseau-empaillé-à-garte",
+              "title": "Apporter l'oiseau empaillé à Garte",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:31:27Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/apporter-loiseau-empaillé-à-garte-en.md",
+                "fr": "disco-elysium/tâches-secondaires/apporter-loiseau-empaillé-à-garte-fr.md",
+                "es": "disco-elysium/tâches-secondaires/apporter-loiseau-empaillé-à-garte-es.md"
+              }
+            },
+            {
+              "id": "trouver-la-veste-de-mal-en-pitre",
+              "title": "Trouver la veste de Mal-en-Pitre",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:31:43Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/trouver-la-veste-de-mal-en-pitre-en.md",
+                "fr": "disco-elysium/tâches-secondaires/trouver-la-veste-de-mal-en-pitre-fr.md",
+                "es": "disco-elysium/tâches-secondaires/trouver-la-veste-de-mal-en-pitre-es.md"
+              }
+            },
+            {
+              "id": "trouver-morell-le-cryptozoologue",
+              "title": "Trouver Morell, le Cryptozoologue",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:31:57Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/trouver-morell-le-cryptozoologue-en.md",
+                "fr": "disco-elysium/tâches-secondaires/trouver-morell-le-cryptozoologue-fr.md",
+                "es": "disco-elysium/tâches-secondaires/trouver-morell-le-cryptozoologue-es.md"
+              }
+            },
+            {
+              "id": "inspecter-les-pièges",
+              "title": "Inspecter les pièges",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:32:11Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/inspecter-les-pièges-en.md",
+                "fr": "disco-elysium/tâches-secondaires/inspecter-les-pièges-fr.md",
+                "es": "disco-elysium/tâches-secondaires/inspecter-les-pièges-es.md"
+              }
+            },
+            {
+              "id": "laffaire-des-insectes-disparus",
+              "title": "L'affaire des insectes disparus",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:32:23Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/laffaire-des-insectes-disparus-en.md",
+                "fr": "disco-elysium/tâches-secondaires/laffaire-des-insectes-disparus-fr.md",
+                "es": "disco-elysium/tâches-secondaires/laffaire-des-insectes-disparus-es.md"
+              }
+            },
+            {
+              "id": "trouver-le-phasmidé-insulindien",
+              "title": "Trouver le Phasmidé Insulindien",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:32:36Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/trouver-le-phasmidé-insulindien-en.md",
+                "fr": "disco-elysium/tâches-secondaires/trouver-le-phasmidé-insulindien-fr.md",
+                "es": "disco-elysium/tâches-secondaires/trouver-le-phasmidé-insulindien-es.md"
+              }
+            },
+            {
+              "id": "chanter-au-karaoke",
+              "title": "Chanter au karaoke",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:32:48Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/chanter-au-karaoke-en.md",
+                "fr": "disco-elysium/tâches-secondaires/chanter-au-karaoke-fr.md",
+                "es": "disco-elysium/tâches-secondaires/chanter-au-karaoke-es.md"
+              }
+            },
+            {
+              "id": "mener-lenquête-dans-la-zone-commerciale-maudite",
+              "title": "Mener l'enquête dans la zone commerciale maudite",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:33:22Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/mener-lenquête-dans-la-zone-commerciale-maudite-en.md",
+                "fr": "disco-elysium/tâches-secondaires/mener-lenquête-dans-la-zone-commerciale-maudite-fr.md",
+                "es": "disco-elysium/tâches-secondaires/mener-lenquête-dans-la-zone-commerciale-maudite-es.md"
+              }
+            },
+            {
+              "id": "récupérer-vos-dés-auprès-de-la-fabricante",
+              "title": "Récupérer vos dés auprès de la fabricante",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:33:37Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/récupérer-vos-dés-auprès-de-la-fabricante-en.md",
+                "fr": "disco-elysium/tâches-secondaires/récupérer-vos-dés-auprès-de-la-fabricante-fr.md",
+                "es": "disco-elysium/tâches-secondaires/récupérer-vos-dés-auprès-de-la-fabricante-es.md"
+              }
+            },
+            {
+              "id": "explorer-le-passage-secret-du-whirling",
+              "title": "Explorer le passage secret du Whirling",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:33:57Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/explorer-le-passage-secret-du-whirling-en.md",
+                "fr": "disco-elysium/tâches-secondaires/explorer-le-passage-secret-du-whirling-fr.md",
+                "es": "disco-elysium/tâches-secondaires/explorer-le-passage-secret-du-whirling-es.md"
+              }
+            },
+            {
+              "id": "lhôtel-maudit",
+              "title": "L'hôtel maudit ?",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:34:15Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/lhôtel-maudit-en.md",
+                "fr": "disco-elysium/tâches-secondaires/lhôtel-maudit-fr.md",
+                "es": "disco-elysium/tâches-secondaires/lhôtel-maudit-es.md"
+              }
+            },
+            {
+              "id": "interroger-le-pétanqueur-à-propos-du-muguet",
+              "title": "Interroger le pétanqueur à propos du muguet",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:34:26Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/interroger-le-pétanqueur-à-propos-du-muguet-en.md",
+                "fr": "disco-elysium/tâches-secondaires/interroger-le-pétanqueur-à-propos-du-muguet-fr.md",
+                "es": "disco-elysium/tâches-secondaires/interroger-le-pétanqueur-à-propos-du-muguet-es.md"
+              }
+            },
+            {
+              "id": "donner-du-style-à-votre-paperasse-tâche-secrète",
+              "title": "Donner du style à votre paperasse (tâche secrète)",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:34:40Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/donner-du-style-à-votre-paperasse-tâche-secrète-en.md",
+                "fr": "disco-elysium/tâches-secondaires/donner-du-style-à-votre-paperasse-tâche-secrète-fr.md",
+                "es": "disco-elysium/tâches-secondaires/donner-du-style-à-votre-paperasse-tâche-secrète-es.md"
+              }
+            },
+            {
+              "id": "aider-les-fêtards-à-monter-une-boite-de-nuit",
+              "title": "Aider les fêtards à monter une boite de nuit",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:35:23Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/aider-les-fêtards-à-monter-une-boite-de-nuit-en.md",
+                "fr": "disco-elysium/tâches-secondaires/aider-les-fêtards-à-monter-une-boite-de-nuit-fr.md",
+                "es": "disco-elysium/tâches-secondaires/aider-les-fêtards-à-monter-une-boite-de-nuit-es.md"
+              }
+            },
+            {
+              "id": "aider-soona-à-réaliser-son-projet",
+              "title": "Aider Soona à réaliser son projet",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:35:54Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/aider-soona-à-réaliser-son-projet-en.md",
+                "fr": "disco-elysium/tâches-secondaires/aider-soona-à-réaliser-son-projet-fr.md",
+                "es": "disco-elysium/tâches-secondaires/aider-soona-à-réaliser-son-projet-es.md"
+              }
+            },
+            {
+              "id": "prévenir-les-commerçants-à-propos-de-la-malédiction",
+              "title": "Prévenir les commerçants à propos de la malédiction",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:36:07Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/prévenir-les-commerçants-à-propos-de-la-malédiction-en.md",
+                "fr": "disco-elysium/tâches-secondaires/prévenir-les-commerçants-à-propos-de-la-malédiction-fr.md",
+                "es": "disco-elysium/tâches-secondaires/prévenir-les-commerçants-à-propos-de-la-malédiction-es.md"
+              }
+            },
+            {
+              "id": "résoudre-lénigme-degg-head",
+              "title": "Résoudre l'énigme d'Egg Head",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:36:30Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/résoudre-lénigme-degg-head-en.md",
+                "fr": "disco-elysium/tâches-secondaires/résoudre-lénigme-degg-head-fr.md",
+                "es": "disco-elysium/tâches-secondaires/résoudre-lénigme-degg-head-es.md"
+              }
+            },
+            {
+              "id": "faire-une-version-hardcore-du-mix-de-van-eyck",
+              "title": "Faire une version Hardcore du mix de Van Eyck",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:36:47Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/faire-une-version-hardcore-du-mix-de-van-eyck-en.md",
+                "fr": "disco-elysium/tâches-secondaires/faire-une-version-hardcore-du-mix-de-van-eyck-fr.md",
+                "es": "disco-elysium/tâches-secondaires/faire-une-version-hardcore-du-mix-de-van-eyck-es.md"
+              }
+            },
+            {
+              "id": "synchroniser-les-sinusoïdes-avec-noïd",
+              "title": "Synchroniser les sinusoïdes avec Noïd",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:37:00Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/synchroniser-les-sinusoïdes-avec-noïd-en.md",
+                "fr": "disco-elysium/tâches-secondaires/synchroniser-les-sinusoïdes-avec-noïd-fr.md",
+                "es": "disco-elysium/tâches-secondaires/synchroniser-les-sinusoïdes-avec-noïd-es.md"
+              }
+            },
+            {
+              "id": "pousser-acele-à-parler-de-ses-associés",
+              "title": "Pousser Acele à parler de ses associés",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:37:14Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/pousser-acele-à-parler-de-ses-associés-en.md",
+                "fr": "disco-elysium/tâches-secondaires/pousser-acele-à-parler-de-ses-associés-fr.md",
+                "es": "disco-elysium/tâches-secondaires/pousser-acele-à-parler-de-ses-associés-es.md"
+              }
+            },
+            {
+              "id": "interroger-evrart-à-propos-dacele",
+              "title": "Interroger Evrart à propos d'Acele",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T20:37:25Z",
+              "locales": {
+                "en": "disco-elysium/tâches-secondaires/interroger-evrart-à-propos-dacele-en.md",
+                "fr": "disco-elysium/tâches-secondaires/interroger-evrart-à-propos-dacele-fr.md",
+                "es": "disco-elysium/tâches-secondaires/interroger-evrart-à-propos-dacele-es.md"
               }
             }
           ]
