@@ -1,0 +1,1510 @@
+{
+  "schema_version": "1.1",
+  "repository": {
+    "author": "LibreWalk Community",
+    "name": "librewalk-guides",
+    "description": "Open-source game walkthroughs",
+    "last_updated": "2026-04-09T17:43:33Z"
+  },
+  "games": [
+    {
+      "id": "outer-worlds",
+      "title": "outer-worlds",
+      "platform": [
+        "PC"
+      ],
+      "coverUrl": "assets/covers/outer-worlds.webp",
+      "categories": [
+        {
+          "id": "dlc-meurtre-sur-eridan",
+          "title": "Dlc Meurtre Sur Eridan",
+          "guides": [
+            {
+              "id": "le-dernier-rôle-dhelen-halcyon",
+              "title": "Le dernier rôle d'Helen Halcyon",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:56:07Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/le-dernier-rôle-dhelen-halcyon-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/le-dernier-rôle-dhelen-halcyon-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/le-dernier-rôle-dhelen-halcyon-es.md"
+              }
+            },
+            {
+              "id": "un-éphémère-goût-de-pourpreille",
+              "title": "Un éphémère goût de Pourpreille",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:56:44Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/un-éphémère-goût-de-pourpreille-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/un-éphémère-goût-de-pourpreille-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/un-éphémère-goût-de-pourpreille-es.md"
+              }
+            },
+            {
+              "id": "le-perturbateur",
+              "title": "Le Perturbateur",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:57:06Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/le-perturbateur-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/le-perturbateur-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/le-perturbateur-es.md"
+              }
+            },
+            {
+              "id": "le-prince-du-tossball",
+              "title": "Le prince du Tossball",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:57:30Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/le-prince-du-tossball-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/le-prince-du-tossball-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/le-prince-du-tossball-es.md"
+              }
+            },
+            {
+              "id": "la-reine-de-la-productivité",
+              "title": "La Reine de la productivité",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:57:49Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/la-reine-de-la-productivité-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/la-reine-de-la-productivité-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/la-reine-de-la-productivité-es.md"
+              }
+            },
+            {
+              "id": "seigneur-des-chimères",
+              "title": "Seigneur des Chimères",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:58:15Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/seigneur-des-chimères-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/seigneur-des-chimères-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/seigneur-des-chimères-es.md"
+              }
+            },
+            {
+              "id": "une-accusation-avortée",
+              "title": "Une accusation avortée",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:58:30Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/une-accusation-avortée-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/une-accusation-avortée-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/une-accusation-avortée-es.md"
+              }
+            },
+            {
+              "id": "par-linstinct-mû",
+              "title": "Par l'instinct mû",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:58:45Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/par-linstinct-mû-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/par-linstinct-mû-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/par-linstinct-mû-es.md"
+              }
+            },
+            {
+              "id": "linfernale-machine-explosive-dhelen-halcyon",
+              "title": "L'infernale machine explosive d'Helen Halcyon",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:59:00Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/linfernale-machine-explosive-dhelen-halcyon-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/linfernale-machine-explosive-dhelen-halcyon-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/linfernale-machine-explosive-dhelen-halcyon-es.md"
+              }
+            },
+            {
+              "id": "helen-et-les-limaçons",
+              "title": "Helen et les limaçons",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:59:18Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/helen-et-les-limaçons-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/helen-et-les-limaçons-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/helen-et-les-limaçons-es.md"
+              }
+            },
+            {
+              "id": "le-temps-dun-souffle-je-mattarde",
+              "title": "Le temps d'un souffle, je m'attarde",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:59:35Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/le-temps-dun-souffle-je-mattarde-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/le-temps-dun-souffle-je-mattarde-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/le-temps-dun-souffle-je-mattarde-es.md"
+              }
+            },
+            {
+              "id": "fuite-usinière",
+              "title": "Fuite usinière",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T16:59:51Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/fuite-usinière-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/fuite-usinière-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/fuite-usinière-es.md"
+              }
+            },
+            {
+              "id": "aux-grands-mollusques-les-grands-remèdes",
+              "title": "Aux grands mollusques, les grands remèdes",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:00:09Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/aux-grands-mollusques-les-grands-remèdes-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/aux-grands-mollusques-les-grands-remèdes-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/aux-grands-mollusques-les-grands-remèdes-es.md"
+              }
+            },
+            {
+              "id": "la-bête-qui-bavait-de-haine-au-coeur-du-monde",
+              "title": "La bête qui bavait de haine au coeur du monde",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:00:19Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/la-bête-qui-bavait-de-haine-au-coeur-du-monde-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/la-bête-qui-bavait-de-haine-au-coeur-du-monde-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/la-bête-qui-bavait-de-haine-au-coeur-du-monde-es.md"
+              }
+            },
+            {
+              "id": "capitaine-go-home",
+              "title": "Capitaine, Go Home !",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:00:35Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/capitaine-go-home-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/capitaine-go-home-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/capitaine-go-home-es.md"
+              }
+            },
+            {
+              "id": "la-piscine-de-lhorreur",
+              "title": "La piscine de l'horreur",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:00:56Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/la-piscine-de-lhorreur-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/la-piscine-de-lhorreur-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/la-piscine-de-lhorreur-es.md"
+              }
+            },
+            {
+              "id": "disparition-étrange-dun-gardien",
+              "title": "Disparition étrange d'un gardien",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:01:25Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/disparition-étrange-dun-gardien-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/disparition-étrange-dun-gardien-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/disparition-étrange-dun-gardien-es.md"
+              }
+            },
+            {
+              "id": "nous-te-saluons-ô-rizzo",
+              "title": "Nous te saluons, ô Rizzo",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:01:59Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/nous-te-saluons-ô-rizzo-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/nous-te-saluons-ô-rizzo-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/nous-te-saluons-ô-rizzo-es.md"
+              }
+            },
+            {
+              "id": "le-dédale-végétal-aux-sentiers-qui-bifurquent",
+              "title": "Le dédale végétal aux sentiers qui bifurquent",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:02:21Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/le-dédale-végétal-aux-sentiers-qui-bifurquent-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/le-dédale-végétal-aux-sentiers-qui-bifurquent-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/le-dédale-végétal-aux-sentiers-qui-bifurquent-es.md"
+              }
+            },
+            {
+              "id": "au-bout-du-spectre",
+              "title": "Au bout du Spectre",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:02:46Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/au-bout-du-spectre-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/au-bout-du-spectre-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/au-bout-du-spectre-es.md"
+              }
+            },
+            {
+              "id": "les-deux-bandits",
+              "title": "Les deux bandits",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:03:13Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/les-deux-bandits-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/les-deux-bandits-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/les-deux-bandits-es.md"
+              }
+            },
+            {
+              "id": "le-petit-automéca-perdu",
+              "title": "Le petit automéca perdu",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:03:36Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/le-petit-automéca-perdu-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/le-petit-automéca-perdu-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/le-petit-automéca-perdu-es.md"
+              }
+            },
+            {
+              "id": "et-je-naurai-pas-besoin-de-clients",
+              "title": "Et je n'aurai pas besoin de clients",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:03:55Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/et-je-naurai-pas-besoin-de-clients-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/et-je-naurai-pas-besoin-de-clients-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/et-je-naurai-pas-besoin-de-clients-es.md"
+              }
+            },
+            {
+              "id": "votre-amour-primate",
+              "title": "Votre amour primate",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:04:18Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/votre-amour-primate-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/votre-amour-primate-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/votre-amour-primate-es.md"
+              }
+            },
+            {
+              "id": "les-cavernes-du-zèle",
+              "title": "Les cavernes du zèle",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:04:34Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/les-cavernes-du-zèle-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/les-cavernes-du-zèle-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/les-cavernes-du-zèle-es.md"
+              }
+            },
+            {
+              "id": "le-piège-à-ptéromantas",
+              "title": "Le piège à Ptéromantas",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:04:52Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/le-piège-à-ptéromantas-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/le-piège-à-ptéromantas-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/le-piège-à-ptéromantas-es.md"
+              }
+            },
+            {
+              "id": "le-monstre-de-phaeton",
+              "title": "Le monstre de PHAETON",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:05:17Z",
+              "locales": {
+                "en": "outer-worlds/dlc-meurtre-sur-eridan/le-monstre-de-phaeton-en.md",
+                "fr": "outer-worlds/dlc-meurtre-sur-eridan/le-monstre-de-phaeton-fr.md",
+                "es": "outer-worlds/dlc-meurtre-sur-eridan/le-monstre-de-phaeton-es.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "dlc-péril-sur-gorgone",
+          "title": "Dlc Péril Sur Gorgone",
+          "guides": [
+            {
+              "id": "accès-au-dlc",
+              "title": "Accès au DLC",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:05:32Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/accès-au-dlc-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/accès-au-dlc-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/accès-au-dlc-es.md"
+              }
+            },
+            {
+              "id": "ceux-qui-ont-fui-gorgone",
+              "title": "Ceux qui ont fui Gorgone",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:06:02Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/ceux-qui-ont-fui-gorgone-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/ceux-qui-ont-fui-gorgone-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/ceux-qui-ont-fui-gorgone-es.md"
+              }
+            },
+            {
+              "id": "quäsiment-sans-danger",
+              "title": "Quäsiment sans danger",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:06:19Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/quäsiment-sans-danger-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/quäsiment-sans-danger-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/quäsiment-sans-danger-es.md"
+              }
+            },
+            {
+              "id": "pseudopomme-mécanique",
+              "title": "Pseudopomme mécanique",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:06:38Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/pseudopomme-mécanique-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/pseudopomme-mécanique-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/pseudopomme-mécanique-es.md"
+              }
+            },
+            {
+              "id": "catapulté-sur-orbite",
+              "title": "Catapulté sur orbite",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:07:11Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/catapulté-sur-orbite-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/catapulté-sur-orbite-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/catapulté-sur-orbite-es.md"
+              }
+            },
+            {
+              "id": "mercenaires-contre-mercenaires",
+              "title": "Mercenaires contre mercenaires",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:07:34Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/mercenaires-contre-mercenaires-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/mercenaires-contre-mercenaires-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/mercenaires-contre-mercenaires-es.md"
+              }
+            },
+            {
+              "id": "chez-spacers-choice-nous-mettons",
+              "title": "Chez Spacer's Choice, nous mettons...",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:07:51Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/chez-spacers-choice-nous-mettons-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/chez-spacers-choice-nous-mettons-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/chez-spacers-choice-nous-mettons-es.md"
+              }
+            },
+            {
+              "id": "périlleuse-expérience",
+              "title": "Périlleuse expérience",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:08:11Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/périlleuse-expérience-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/périlleuse-expérience-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/périlleuse-expérience-es.md"
+              }
+            },
+            {
+              "id": "le-sceau-de-la-bureaucratie",
+              "title": "Le sceau de la bureaucratie",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:08:35Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/le-sceau-de-la-bureaucratie-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/le-sceau-de-la-bureaucratie-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/le-sceau-de-la-bureaucratie-es.md"
+              }
+            },
+            {
+              "id": "ambrose-parées",
+              "title": "Ambrose parées",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:09:25Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/ambrose-parées-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/ambrose-parées-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/ambrose-parées-es.md"
+              }
+            },
+            {
+              "id": "journalisme-dinvestigation",
+              "title": "Journalisme d'investigation",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:09:53Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/journalisme-dinvestigation-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/journalisme-dinvestigation-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/journalisme-dinvestigation-es.md"
+              }
+            },
+            {
+              "id": "sur-les-traces-dun-héros",
+              "title": "Sur les traces d'un héros",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:10:28Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/sur-les-traces-dun-héros-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/sur-les-traces-dun-héros-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/sur-les-traces-dun-héros-es.md"
+              }
+            },
+            {
+              "id": "amour-attendu-mort-en-vue",
+              "title": "Amour attendu, mort en vue",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:10:45Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/amour-attendu-mort-en-vue-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/amour-attendu-mort-en-vue-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/amour-attendu-mort-en-vue-es.md"
+              }
+            },
+            {
+              "id": "lami-lama",
+              "title": "L'ami lama",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:11:05Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/lami-lama-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/lami-lama-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/lami-lama-es.md"
+              }
+            },
+            {
+              "id": "armes-et-armures-uniques-du-dlc",
+              "title": "Armes et armures uniques du DLC",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:11:18Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/armes-et-armures-uniques-du-dlc-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/armes-et-armures-uniques-du-dlc-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/armes-et-armures-uniques-du-dlc-es.md"
+              }
+            },
+            {
+              "id": "armes-uniques-du-dlc",
+              "title": "Armes uniques du DLC",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:12:05Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/armes-uniques-du-dlc-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/armes-uniques-du-dlc-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/armes-uniques-du-dlc-es.md"
+              }
+            },
+            {
+              "id": "armures-uniques-du-dlc",
+              "title": "Armures uniques du DLC",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:12:31Z",
+              "locales": {
+                "en": "outer-worlds/dlc-péril-sur-gorgone/armures-uniques-du-dlc-en.md",
+                "fr": "outer-worlds/dlc-péril-sur-gorgone/armures-uniques-du-dlc-fr.md",
+                "es": "outer-worlds/dlc-péril-sur-gorgone/armures-uniques-du-dlc-es.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quêtes-principales",
+          "title": "Quêtes Principales",
+          "guides": [
+            {
+              "id": "un-étranger-dans-une-étrange-contrée",
+              "title": "Un étranger dans une étrange contrée",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:13:00Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/un-étranger-dans-une-étrange-contrée-en.md",
+                "fr": "outer-worlds/quêtes-principales/un-étranger-dans-une-étrange-contrée-fr.md",
+                "es": "outer-worlds/quêtes-principales/un-étranger-dans-une-étrange-contrée-es.md"
+              }
+            },
+            {
+              "id": "et-lélectricité-fut",
+              "title": "Et l'électricité fut",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:13:42Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/et-lélectricité-fut-en.md",
+                "fr": "outer-worlds/quêtes-principales/et-lélectricité-fut-fr.md",
+                "es": "outer-worlds/quêtes-principales/et-lélectricité-fut-es.md"
+              }
+            },
+            {
+              "id": "passeport-pour-laventure",
+              "title": "Passeport pour l'aventure",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:14:02Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/passeport-pour-laventure-en.md",
+                "fr": "outer-worlds/quêtes-principales/passeport-pour-laventure-fr.md",
+                "es": "outer-worlds/quêtes-principales/passeport-pour-laventure-es.md"
+              }
+            },
+            {
+              "id": "radio-libre-monarque",
+              "title": "Radio Libre Monarque",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:14:35Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/radio-libre-monarque-en.md",
+                "fr": "outer-worlds/quêtes-principales/radio-libre-monarque-fr.md",
+                "es": "outer-worlds/quêtes-principales/radio-libre-monarque-es.md"
+              }
+            },
+            {
+              "id": "la-cité-et-les-astres",
+              "title": "La cité et les astres",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:15:17Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/la-cité-et-les-astres-en.md",
+                "fr": "outer-worlds/quêtes-principales/la-cité-et-les-astres-fr.md",
+                "es": "outer-worlds/quêtes-principales/la-cité-et-les-astres-es.md"
+              }
+            },
+            {
+              "id": "reconnaissance-de-dettes",
+              "title": "Reconnaissance de dettes",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:15:33Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/reconnaissance-de-dettes-en.md",
+                "fr": "outer-worlds/quêtes-principales/reconnaissance-de-dettes-fr.md",
+                "es": "outer-worlds/quêtes-principales/reconnaissance-de-dettes-es.md"
+              }
+            },
+            {
+              "id": "les-maîtres-du-monde",
+              "title": "Les Maîtres du monde",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:15:43Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/les-maîtres-du-monde-en.md",
+                "fr": "outer-worlds/quêtes-principales/les-maîtres-du-monde-fr.md",
+                "es": "outer-worlds/quêtes-principales/les-maîtres-du-monde-es.md"
+              }
+            },
+            {
+              "id": "la-femme-démolie",
+              "title": "La femme démolie",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:16:09Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/la-femme-démolie-en.md",
+                "fr": "outer-worlds/quêtes-principales/la-femme-démolie-fr.md",
+                "es": "outer-worlds/quêtes-principales/la-femme-démolie-es.md"
+              }
+            },
+            {
+              "id": "signal-longue-distance",
+              "title": "Signal longue distance",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:16:24Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/signal-longue-distance-en.md",
+                "fr": "outer-worlds/quêtes-principales/signal-longue-distance-fr.md",
+                "es": "outer-worlds/quêtes-principales/signal-longue-distance-es.md"
+              }
+            },
+            {
+              "id": "radio-pirate",
+              "title": "Radio pirate",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:16:38Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/radio-pirate-en.md",
+                "fr": "outer-worlds/quêtes-principales/radio-pirate-fr.md",
+                "es": "outer-worlds/quêtes-principales/radio-pirate-es.md"
+              }
+            },
+            {
+              "id": "fondation",
+              "title": "Fondation",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:16:54Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/fondation-en.md",
+                "fr": "outer-worlds/quêtes-principales/fondation-fr.md",
+                "es": "outer-worlds/quêtes-principales/fondation-es.md"
+              }
+            },
+            {
+              "id": "secret-mais-pas-oublié",
+              "title": "Secret, mais pas oublié",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:17:19Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/secret-mais-pas-oublié-en.md",
+                "fr": "outer-worlds/quêtes-principales/secret-mais-pas-oublié-fr.md",
+                "es": "outer-worlds/quêtes-principales/secret-mais-pas-oublié-es.md"
+              }
+            },
+            {
+              "id": "le-meilleur-des-mondes",
+              "title": "Le meilleur des mondes",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:17:51Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-principales/le-meilleur-des-mondes-en.md",
+                "fr": "outer-worlds/quêtes-principales/le-meilleur-des-mondes-fr.md",
+                "es": "outer-worlds/quêtes-principales/le-meilleur-des-mondes-es.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quêtes-secondaires",
+          "title": "Quêtes Secondaires",
+          "guides": [
+            {
+              "id": "limposteur",
+              "title": "L'Imposteur",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:18:03Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/limposteur-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/limposteur-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/limposteur-es.md"
+              }
+            },
+            {
+              "id": "les-armes-du-grand-vide",
+              "title": "Les armes du Grand vide",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:18:31Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/les-armes-du-grand-vide-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/les-armes-du-grand-vide-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/les-armes-du-grand-vide-es.md"
+              }
+            },
+            {
+              "id": "vallée-demeraude",
+              "title": "Vallée d'Emeraude",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:18:44Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/vallée-demeraude-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/vallée-demeraude-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/vallée-demeraude-es.md"
+              }
+            },
+            {
+              "id": "une-poignée-dempreintes-digitales",
+              "title": "Une poignée d'empreintes digitales",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:19:01Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/une-poignée-dempreintes-digitales-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/une-poignée-dempreintes-digitales-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/une-poignée-dempreintes-digitales-es.md"
+              }
+            },
+            {
+              "id": "un-long-lendemain",
+              "title": "Un long lendemain",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:19:24Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/un-long-lendemain-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/un-long-lendemain-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/un-long-lendemain-es.md"
+              }
+            },
+            {
+              "id": "a-bat-les-robots",
+              "title": "A bat les robots !",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:19:44Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/a-bat-les-robots-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/a-bat-les-robots-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/a-bat-les-robots-es.md"
+              }
+            },
+            {
+              "id": "des-esprits-bienveillants",
+              "title": "Des esprits bienveillants",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:20:05Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/des-esprits-bienveillants-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/des-esprits-bienveillants-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/des-esprits-bienveillants-es.md"
+              }
+            },
+            {
+              "id": "ingénieurs-affolés",
+              "title": "Ingénieurs affolés",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:20:20Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/ingénieurs-affolés-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/ingénieurs-affolés-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/ingénieurs-affolés-es.md"
+              }
+            },
+            {
+              "id": "le-précurseur",
+              "title": "Le Précurseur",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:20:32Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/le-précurseur-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/le-précurseur-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/le-précurseur-es.md"
+              }
+            },
+            {
+              "id": "qui-va-là",
+              "title": "Qui va là ?",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:20:56Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/qui-va-là-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/qui-va-là-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/qui-va-là-es.md"
+              }
+            },
+            {
+              "id": "vaisseau-doux-vaisseau",
+              "title": "Vaisseau, doux vaisseau",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:21:22Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/vaisseau-doux-vaisseau-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/vaisseau-doux-vaisseau-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/vaisseau-doux-vaisseau-es.md"
+              }
+            },
+            {
+              "id": "silence-radio",
+              "title": "Silence radio",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:21:40Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/silence-radio-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/silence-radio-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/silence-radio-es.md"
+              }
+            },
+            {
+              "id": "suivi-médical",
+              "title": "Suivi médical",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:21:56Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/suivi-médical-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/suivi-médical-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/suivi-médical-es.md"
+              }
+            },
+            {
+              "id": "roseway",
+              "title": "Roseway",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:22:15Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/roseway-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/roseway-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/roseway-es.md"
+              }
+            },
+            {
+              "id": "signal-de-détresse",
+              "title": "Signal de détresse",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:22:35Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/signal-de-détresse-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/signal-de-détresse-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/signal-de-détresse-es.md"
+              }
+            },
+            {
+              "id": "roseway-à-pleines-dents",
+              "title": "Roseway à pleines dents",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:23:10Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/roseway-à-pleines-dents-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/roseway-à-pleines-dents-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/roseway-à-pleines-dents-es.md"
+              }
+            },
+            {
+              "id": "seul-contre-tous",
+              "title": "Seul contre tous",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:23:24Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/seul-contre-tous-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/seul-contre-tous-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/seul-contre-tous-es.md"
+              }
+            },
+            {
+              "id": "le-marteau-de-vulcain",
+              "title": "Le marteau de Vulcain",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:23:48Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/le-marteau-de-vulcain-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/le-marteau-de-vulcain-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/le-marteau-de-vulcain-es.md"
+              }
+            },
+            {
+              "id": "lapprenti-alchimiste",
+              "title": "L'apprenti alchimiste",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:24:10Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/lapprenti-alchimiste-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/lapprenti-alchimiste-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/lapprenti-alchimiste-es.md"
+              }
+            },
+            {
+              "id": "périple-enfumé",
+              "title": "Périple enfumé",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:24:29Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/périple-enfumé-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/périple-enfumé-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/périple-enfumé-es.md"
+              }
+            },
+            {
+              "id": "monarque",
+              "title": "Monarque",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:24:51Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/monarque-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/monarque-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/monarque-es.md"
+              }
+            },
+            {
+              "id": "les-malheurs-de-grimm",
+              "title": "Les malheurs de Grimm",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:25:14Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/les-malheurs-de-grimm-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/les-malheurs-de-grimm-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/les-malheurs-de-grimm-es.md"
+              }
+            },
+            {
+              "id": "pilules-fétiches",
+              "title": "Pilules fétiches",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:25:43Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/pilules-fétiches-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/pilules-fétiches-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/pilules-fétiches-es.md"
+              }
+            },
+            {
+              "id": "le-peuple-caché",
+              "title": "Le peuple caché",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:26:06Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/le-peuple-caché-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/le-peuple-caché-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/le-peuple-caché-es.md"
+              }
+            },
+            {
+              "id": "la-grande-cause-dherrick",
+              "title": "La grande cause d'Herrick",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:26:29Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/la-grande-cause-dherrick-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/la-grande-cause-dherrick-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/la-grande-cause-dherrick-es.md"
+              }
+            },
+            {
+              "id": "voyou-en-acier-inoxydable",
+              "title": "Voyou en acier inoxydable",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:26:51Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/voyou-en-acier-inoxydable-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/voyou-en-acier-inoxydable-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/voyou-en-acier-inoxydable-es.md"
+              }
+            },
+            {
+              "id": "affaire-de-famille",
+              "title": "Affaire de famille",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:27:18Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/affaire-de-famille-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/affaire-de-famille-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/affaire-de-famille-es.md"
+              }
+            },
+            {
+              "id": "souvenirs-du-bon-vieux-temps",
+              "title": "Souvenirs du bon vieux temps",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:27:38Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/souvenirs-du-bon-vieux-temps-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/souvenirs-du-bon-vieux-temps-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/souvenirs-du-bon-vieux-temps-es.md"
+              }
+            },
+            {
+              "id": "clive-le-boucher",
+              "title": "Clive le Boucher",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:28:21Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/clive-le-boucher-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/clive-le-boucher-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/clive-le-boucher-es.md"
+              }
+            },
+            {
+              "id": "danse-avec-les-porkystes",
+              "title": "Danse avec les porkystes",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:28:34Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/danse-avec-les-porkystes-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/danse-avec-les-porkystes-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/danse-avec-les-porkystes-es.md"
+              }
+            },
+            {
+              "id": "byzance",
+              "title": "Byzance",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:28:49Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/byzance-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/byzance-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/byzance-es.md"
+              }
+            },
+            {
+              "id": "cinéma-total",
+              "title": "Cinéma total",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:29:03Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/cinéma-total-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/cinéma-total-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/cinéma-total-es.md"
+              }
+            },
+            {
+              "id": "eterna",
+              "title": "Eterna",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:29:24Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-secondaires/eterna-en.md",
+                "fr": "outer-worlds/quêtes-secondaires/eterna-fr.md",
+                "es": "outer-worlds/quêtes-secondaires/eterna-es.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quêtes-de-factions",
+          "title": "Quêtes De Factions",
+          "guides": [
+            {
+              "id": "sublight-salvage-shipping",
+              "title": "SubLight Salvage & Shipping",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:29:34Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/sublight-salvage-shipping-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/sublight-salvage-shipping-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/sublight-salvage-shipping-es.md"
+              }
+            },
+            {
+              "id": "syndicat-du-cosmocrime",
+              "title": "Syndicat du Cosmocrime",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:30:26Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/syndicat-du-cosmocrime-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/syndicat-du-cosmocrime-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/syndicat-du-cosmocrime-es.md"
+              }
+            },
+            {
+              "id": "le-palais-des-glaces",
+              "title": "Le palais des glaces",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:30:54Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/le-palais-des-glaces-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/le-palais-des-glaces-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/le-palais-des-glaces-es.md"
+              }
+            },
+            {
+              "id": "expériences-chimériques",
+              "title": "Expériences chimériques",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:31:20Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/expériences-chimériques-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/expériences-chimériques-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/expériences-chimériques-es.md"
+              }
+            },
+            {
+              "id": "monarch-stellar-industries",
+              "title": "Monarch Stellar Industries",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:31:39Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/monarch-stellar-industries-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/monarch-stellar-industries-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/monarch-stellar-industries-es.md"
+              }
+            },
+            {
+              "id": "son-nom-est-bolt",
+              "title": "Son nom est BOLT",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:31:59Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/son-nom-est-bolt-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/son-nom-est-bolt-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/son-nom-est-bolt-es.md"
+              }
+            },
+            {
+              "id": "erreurs-cachées",
+              "title": "Erreurs cachées",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:32:26Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/erreurs-cachées-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/erreurs-cachées-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/erreurs-cachées-es.md"
+              }
+            },
+            {
+              "id": "demain-les-canidés",
+              "title": "Demain les canidés",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:32:54Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/demain-les-canidés-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/demain-les-canidés-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/demain-les-canidés-es.md"
+              }
+            },
+            {
+              "id": "iconoclastes",
+              "title": "Iconoclastes",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:33:04Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/iconoclastes-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/iconoclastes-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/iconoclastes-es.md"
+              }
+            },
+            {
+              "id": "le-transporteur",
+              "title": "Le transporteur",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:33:19Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/le-transporteur-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/le-transporteur-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/le-transporteur-es.md"
+              }
+            },
+            {
+              "id": "le-prix-de-la-presse",
+              "title": "Le prix de la presse",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:33:42Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/le-prix-de-la-presse-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/le-prix-de-la-presse-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/le-prix-de-la-presse-es.md"
+              }
+            },
+            {
+              "id": "larnaqueur",
+              "title": "L'arnaqueur",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:34:00Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-factions/larnaqueur-en.md",
+                "fr": "outer-worlds/quêtes-de-factions/larnaqueur-fr.md",
+                "es": "outer-worlds/quêtes-de-factions/larnaqueur-es.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quêtes-de-compagnons",
+          "title": "Quêtes De Compagnons",
+          "guides": [
+            {
+              "id": "parvati",
+              "title": "Parvati",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:34:13Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/parvati-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/parvati-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/parvati-es.md"
+              }
+            },
+            {
+              "id": "le-vin-saphir",
+              "title": "Le vin saphir",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:34:29Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/le-vin-saphir-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/le-vin-saphir-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/le-vin-saphir-es.md"
+              }
+            },
+            {
+              "id": "ne-mords-pas-le-soleil",
+              "title": "Ne mords pas le soleil",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:34:58Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/ne-mords-pas-le-soleil-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/ne-mords-pas-le-soleil-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/ne-mords-pas-le-soleil-es.md"
+              }
+            },
+            {
+              "id": "max",
+              "title": "Max",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:35:09Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/max-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/max-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/max-es.md"
+              }
+            },
+            {
+              "id": "le-manuel-illustré",
+              "title": "Le manuel illustré",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:35:27Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/le-manuel-illustré-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/le-manuel-illustré-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/le-manuel-illustré-es.md"
+              }
+            },
+            {
+              "id": "lhomme-creux",
+              "title": "L'homme creux",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:35:54Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/lhomme-creux-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/lhomme-creux-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/lhomme-creux-es.md"
+              }
+            },
+            {
+              "id": "ellie",
+              "title": "Ellie",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:36:08Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/ellie-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/ellie-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/ellie-es.md"
+              }
+            },
+            {
+              "id": "pire-contact",
+              "title": "Pire contact",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:36:35Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/pire-contact-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/pire-contact-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/pire-contact-es.md"
+              }
+            },
+            {
+              "id": "croisade-personnelle",
+              "title": "Croisade personnelle",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:36:53Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/croisade-personnelle-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/croisade-personnelle-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/croisade-personnelle-es.md"
+              }
+            },
+            {
+              "id": "félix",
+              "title": "Félix",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:37:04Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/félix-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/félix-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/félix-es.md"
+              }
+            },
+            {
+              "id": "recruter-félix",
+              "title": "Recruter Félix",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:37:19Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/recruter-félix-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/recruter-félix-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/recruter-félix-es.md"
+              }
+            },
+            {
+              "id": "pour-un-vieil-ami",
+              "title": "Pour un vieil ami",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:37:44Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/pour-un-vieil-ami-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/pour-un-vieil-ami-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/pour-un-vieil-ami-es.md"
+              }
+            },
+            {
+              "id": "sam",
+              "title": "SAM",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:37:53Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/sam-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/sam-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/sam-es.md"
+              }
+            },
+            {
+              "id": "unité-de-nettoyage",
+              "title": "Unité de nettoyage",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:38:10Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/unité-de-nettoyage-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/unité-de-nettoyage-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/unité-de-nettoyage-es.md"
+              }
+            },
+            {
+              "id": "nyoka",
+              "title": "Nyoka",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:38:20Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/nyoka-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/nyoka-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/nyoka-es.md"
+              }
+            },
+            {
+              "id": "nés-sous-une-mauvaise-étoile",
+              "title": "Nés sous une mauvaise étoile",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:38:55Z",
+              "locales": {
+                "en": "outer-worlds/quêtes-de-compagnons/nés-sous-une-mauvaise-étoile-en.md",
+                "fr": "outer-worlds/quêtes-de-compagnons/nés-sous-une-mauvaise-étoile-fr.md",
+                "es": "outer-worlds/quêtes-de-compagnons/nés-sous-une-mauvaise-étoile-es.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "missions",
+          "title": "Missions",
+          "guides": [
+            {
+              "id": "a-nos-trop-chers-défunts",
+              "title": "A nos (trop !) chers défunts",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:39:27Z",
+              "locales": {
+                "en": "outer-worlds/missions/a-nos-trop-chers-défunts-en.md",
+                "fr": "outer-worlds/missions/a-nos-trop-chers-défunts-fr.md",
+                "es": "outer-worlds/missions/a-nos-trop-chers-défunts-es.md"
+              }
+            },
+            {
+              "id": "récupérateur-stellaire",
+              "title": "Récupérateur stellaire",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:39:42Z",
+              "locales": {
+                "en": "outer-worlds/missions/récupérateur-stellaire-en.md",
+                "fr": "outer-worlds/missions/récupérateur-stellaire-fr.md",
+                "es": "outer-worlds/missions/récupérateur-stellaire-es.md"
+              }
+            },
+            {
+              "id": "la-chasse-ultime-de-m-pickett",
+              "title": "La chasse ultime de M. Pickett",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:39:55Z",
+              "locales": {
+                "en": "outer-worlds/missions/la-chasse-ultime-de-m-pickett-en.md",
+                "fr": "outer-worlds/missions/la-chasse-ultime-de-m-pickett-fr.md",
+                "es": "outer-worlds/missions/la-chasse-ultime-de-m-pickett-es.md"
+              }
+            },
+            {
+              "id": "des-fleurs-pour-sebastian",
+              "title": "Des fleurs pour Sebastian",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:40:08Z",
+              "locales": {
+                "en": "outer-worlds/missions/des-fleurs-pour-sebastian-en.md",
+                "fr": "outer-worlds/missions/des-fleurs-pour-sebastian-fr.md",
+                "es": "outer-worlds/missions/des-fleurs-pour-sebastian-es.md"
+              }
+            },
+            {
+              "id": "travaux-divers",
+              "title": "Travaux divers",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:40:23Z",
+              "locales": {
+                "en": "outer-worlds/missions/travaux-divers-en.md",
+                "fr": "outer-worlds/missions/travaux-divers-fr.md",
+                "es": "outer-worlds/missions/travaux-divers-es.md"
+              }
+            },
+            {
+              "id": "roi-des-sprats",
+              "title": "Roi des Sprats",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:40:41Z",
+              "locales": {
+                "en": "outer-worlds/missions/roi-des-sprats-en.md",
+                "fr": "outer-worlds/missions/roi-des-sprats-fr.md",
+                "es": "outer-worlds/missions/roi-des-sprats-es.md"
+              }
+            },
+            {
+              "id": "mandibules-diaboliques",
+              "title": "Mandibules diaboliques",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:41:08Z",
+              "locales": {
+                "en": "outer-worlds/missions/mandibules-diaboliques-en.md",
+                "fr": "outer-worlds/missions/mandibules-diaboliques-fr.md",
+                "es": "outer-worlds/missions/mandibules-diaboliques-es.md"
+              }
+            },
+            {
+              "id": "le-scaphandre-imprudent",
+              "title": "Le scaphandre imprudent",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:41:33Z",
+              "locales": {
+                "en": "outer-worlds/missions/le-scaphandre-imprudent-en.md",
+                "fr": "outer-worlds/missions/le-scaphandre-imprudent-fr.md",
+                "es": "outer-worlds/missions/le-scaphandre-imprudent-es.md"
+              }
+            },
+            {
+              "id": "cupidon-de-laboratoire",
+              "title": "Cupidon de laboratoire",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:41:46Z",
+              "locales": {
+                "en": "outer-worlds/missions/cupidon-de-laboratoire-en.md",
+                "fr": "outer-worlds/missions/cupidon-de-laboratoire-fr.md",
+                "es": "outer-worlds/missions/cupidon-de-laboratoire-es.md"
+              }
+            },
+            {
+              "id": "le-tour-dhalcyon-en-quatre-vingts-heures",
+              "title": "Le tour d'Halcyon en quatre-vingts heures",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:42:02Z",
+              "locales": {
+                "en": "outer-worlds/missions/le-tour-dhalcyon-en-quatre-vingts-heures-en.md",
+                "fr": "outer-worlds/missions/le-tour-dhalcyon-en-quatre-vingts-heures-fr.md",
+                "es": "outer-worlds/missions/le-tour-dhalcyon-en-quatre-vingts-heures-es.md"
+              }
+            },
+            {
+              "id": "rendez-vous-avec-gaïa",
+              "title": "Rendez-vous avec Gaïa",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:42:19Z",
+              "locales": {
+                "en": "outer-worlds/missions/rendez-vous-avec-gaïa-en.md",
+                "fr": "outer-worlds/missions/rendez-vous-avec-gaïa-fr.md",
+                "es": "outer-worlds/missions/rendez-vous-avec-gaïa-es.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "armes-et-armures-uniques",
+          "title": "Armes Et Armures Uniques",
+          "guides": [
+            {
+              "id": "armes-uniques",
+              "title": "Armes uniques",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:43:02Z",
+              "locales": {
+                "en": "outer-worlds/armes-et-armures-uniques/armes-uniques-en.md",
+                "fr": "outer-worlds/armes-et-armures-uniques/armes-uniques-fr.md",
+                "es": "outer-worlds/armes-et-armures-uniques/armes-uniques-es.md"
+              }
+            },
+            {
+              "id": "armures-uniques",
+              "title": "Armures uniques",
+              "author": "LibreWalk",
+              "last_updated": "2026-04-09T17:43:33Z",
+              "locales": {
+                "en": "outer-worlds/armes-et-armures-uniques/armures-uniques-en.md",
+                "fr": "outer-worlds/armes-et-armures-uniques/armures-uniques-fr.md",
+                "es": "outer-worlds/armes-et-armures-uniques/armures-uniques-es.md"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

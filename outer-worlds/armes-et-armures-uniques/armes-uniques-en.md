@@ -1,0 +1,37 @@
+
+## Halcyon Colony & Nearby Areas
+
+- **Maxwell** – Sold by Julius Moreau at the Edgewater General Store.  
+- **Quint** – Sold by Stefan Garcia at the Emerald Valley Botany Lab.  
+- **Pettor** – Found near a corpse in the primate nest north of the Emerald Valley.  
+- **Lam à manch** – Found on Dr. Maybell’s corpse during the quest “A Handful of Fingerprints”.  
+- **Longue‑vue** – Obtained by killing Grace Romero at the entrance of the Emerald Valley Botany Lab.  
+- **Electric Staff** – Reward from the quest “Beat the Robots!”.  
+- **Assistant Retriever** – Sold by Gladys at the Precursor.  
+- **Montag** – Found on Captain MacRedd’s corpse during the quest “Who Goes There?”.  
+- **Silencer** – Found on Frey’s corpse during the quest “Radio Silence”.  
+- **Ultimatum** – First reward from the quest “Vulcan’s Hammer” if you give the weapon plans to the researcher.  
+- **Ulti‑nature** – Second reward from the same quest if you give the plans to the researcher.  
+- **Anarchist Recipe Book** – Reward from the quest “Smoky Journey” if you return the cigarette case to Lillian.  
+- **Raptis Spike** – Found in Vaughn’s lab during the quest “The Apprentice Alchemist”.  
+- **Irion Flintlock Rifle** – Given by Captain Irion during the mission “Medical Follow‑up”.  
+- **Primate Trainer Club** – Found behind a rock in the southern part of Scylla.  
+- **Table Knife** – Found in the Mather house during the quest “The Hidden People”.  
+- **Rapti‑non** – Found near a corpse in the Monarch area called “Hero’s Gunpowder”.  
+- **Euthanasia Kit** – Found on an iconoclast corpse near Terra‑1 Editions during the quest “The Price of the Press”.  
+- **Anti‑Mantis Ray** – Found in the mantis‑nest lair northwest of Fallbrook.  
+- **Purple Lance** – On a floor of a Cascadia building; requires 65 lockpicking skill to access.  
+- **Candy Cane** – Retrieved from Herbert’s corpse in the Cascadia Bridge Shelter. Access: go to the roof of the Rizzo factory, jump over the wall, use the side elevator, then need 40 lockpicking to enter the shelter.  
+- **SubLight Plasma Cutter** – Sold by Lyanna Reed in Fallbrook.  
+- **Clive’s Cleaver** – Reward from the quest “Dance with the Porkysts”.  
+- **Thunder** – Found in the E3 barracks during the mission “Diabolic Mandibles”.  
+- **Olympus Hammer** – Found between two stone blocks in the Split Rock area north of the Devil’s Peak station.  
+- **Sauthon MSI Siphoner** – Reward from the quest “Tomorrow the Canines” if you give the module to Sanjar.  
+- **The Little Word** – Reward from the same quest if you give the module to Graham or Zora.  
+- **Sweet Voice** – Reward from the same quest if you negotiate a truce between MSI and the Iconoclasts.  
+- **The Exterminator** – Sold by Winston Forsythe in his Byzantium shop.  
+- **Termination Notice** – Sold by Winston Forsythe in his Byzantium shop.  
+- **The Negotiator** – Found on your desk aboard the Impostor after the quest “Chimeric Experiments” if you eliminated Dr. Chartrand and previously completed “Clive the Butcher” for Catherine.  
+- **Phin’s Force** – Found in Phineas Welles’s office during the quest “Secret, but Not Forgotten” if you allied with Phineas.  
+- **Anti‑Poor** – Sold by Percival Platt at HCC headquarters after completing “Long‑Range Signal”.  
+- **Latinus** – Sold by Percival Platt at HCC headquarters after completing “Long‑Range Signal”.  

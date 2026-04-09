@@ -1,0 +1,38 @@
+
+## Localisation des armes
+
+- **Maxwell** – Vendu par Julius Moreau au magasin général d’Edgewater.  
+- **Quinte** – Vendu par Stefan Garcia au laboratoire de botanique de la Vallée d’Emeraude.  
+- **Pétoire** – Trouvée près d’un cadavre dans le nid de primates situé au nord de la Vallée d’Emeraude.  
+- **Lam à manch** – Trouvée sur le cadavre du Dr Maybell pendant la quête **«Une poignée d’empreintes digitales»**.  
+- **Longue‑vue** – Obtenue en éliminant Grace Romero à l’entrée du laboratoire botanique de la Vallée d’Emeraude.  
+- **Bâton électrique** – Récompense de la quête **«A bat les robots !»**.  
+- **Assistant récupérateur** – Vendu par Gladys sur le Précurseur.  
+- **Montag** – Trouvé sur le cadavre du capitaine MacRedd pendant la quête **«Qui va là ?»**.  
+- **Silencieux** – Trouvé sur le cadavre de Frey durant la quête **«Silence radio»**.  
+- **Ultimatum** – Première récompense de la quête **«Le marteau de Vulcain»** si vous donnez les plans de l’arme au chercheur.  
+- **Ulti‑nature** – Deuxième récompense de la quête **«Le marteau de Vulcain»** si vous donnez les plans de l’arme au chercheur.  
+- **Livre de recettes anarchistes** – Récompense de la quête **«Périple enfumé»** si vous rendez l’étui à cigarettes à Lillian.  
+- **Aiguillon à Raptis** – Trouvé dans le laboratoire de Vaughn pendant la quête **«L’apprenti alchimiste»**.  
+- **Fusil à silex d’Irion** – Offert par le capitaine Irion lors de la mission **«Suivi médical»**.  
+- **Matraque de dresseur de primates** – Trouvée derrière un rocher dans la partie sud de Scylla.  
+- **Couteau de table** – Trouvé dans la maison des Mather pendant la quête **«Le peuple caché»**.  
+- **Rapti‑non** – Trouvé près d’un cadavre dans la zone de Monarque appelée **«Le baroud du héros»**.  
+- **Kit d’euthanasie** – Trouvé sur le cadavre d’un iconoclaste près des éditions Terra‑1 pendant la quête **«Le prix de la presse»**.  
+- **Rayon anti‑mantes** – Trouvé dans l’antre de Mantisaures situé au nord‑ouest de Fallbrook.  
+- **Lance‑pourpreille** – Située à l’étage d’un bâtiment de Cascadia (compétence de crochetage ≥ 65 requise).  
+- **Sucre d’orge** – Récupéré sur le cadavre d’Herbert dans le refuge du pont de Cascadia.  
+  - Accès : depuis le toit de l’usine Rizzo, franchissez la muraille, prenez l’ascenseur latéral, puis utilisez une compétence de crochetage ≥ 40 pour entrer dans le refuge.  
+- **Trancheur à plasma SubLight** – Vendu par Lyanna Reed à Fallbrook.  
+- **Fendoir de Clive** – Récompense de la quête **«Danse avec les porkystes»**.  
+- **Tonnerre** – Trouvé dans le baraquement de l’E3 pendant la mission **«Mandibules diaboliques»**.  
+- **Marteau d’Olympe** – Trouvé entre deux blocs de pierre dans la zone du rocher fendu, au nord de la station du Pic du Diable.  
+- **Saisisseur de Sauthon MSI** – Récompense de la quête **«Demain les canidés»** si vous donnez le module à Sanjar.  
+- **Le Petit Mot** – Récompense de la quête **«Demain les canidés»** si vous donnez le module à Graham ou à Zora.  
+- **Douce Voix** – Récompense de la quête **«Demain les canidés»** si vous négociez une trêve entre MSI et les Iconoclastes.  
+- **L’exterminateur** – Vendu par Winston Forsythe dans son magasin de Byzance.  
+- **Avis de licenciement** – Vendu par Winston Forsythe dans son magasin de Byzance.  
+- **Le Négociateur** – Trouvé sur votre bureau à bord de l’Imposteur après la quête **«Expériences chimériques»**, à condition d’avoir éliminé le Dr Chartrand et d’avoir accompli la mission **«Clive le boucher»** pour Catherine.  
+- **Phorce de Phin** – Trouvé dans le bureau de Phinéas Welles pendant la quête **«Secret, mais pas oublié»** si vous êtes allié avec Phinéas.  
+- **Anti‑pauvres** – Vendu par Perceval Platt au siège du HCC après avoir terminé la quête **«Signal longue distance»**.  
+- **Latinus** – Vendu par Perceval Platt au siège du HCC après avoir terminé la quête **«Signal longue distance»**.  

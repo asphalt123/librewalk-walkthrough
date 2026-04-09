@@ -1,0 +1,37 @@
+
+## Lista y localización
+
+- **Maxwell**: Vendido por Julius Moreau en la tienda general de Edgewater.  
+- **Quinte**: Vendido por Stefan Garcia en el laboratorio botánico del Valle Esmeralda.  
+- **Pétoire**: Encontrada cerca de un cadáver en el nido de primates al norte del Valle Esmeralda.  
+- **Lam à manch**: Encontrada en el cadáver del Dr. Maybell durante la misión “Una mano de huellas digitales”.  
+- **Longue-vue**: Obtenida al eliminar a Grace Romero en la entrada del laboratorio botánico del Valle Esmeralda.  
+- **Bâton électrique**: Recompensa de la misión “¡Batalla contra los robots!”.  
+- **Assistant récupérateur**: Vendido por Gladys en el Precursor.  
+- **Montag**: Encontrado en el cadáver del capitán MacRedd durante la misión “¿Quién va allí?”.  
+- **Silencieux**: Encontrado en el cadáver de Frey durante la misión “Silencio radio”.  
+- **Ultimatum**: Primera recompensa de la misión “El martillo de Vulcán” si entregas los planos al investigador.  
+- **Ulti-nature**: Segunda recompensa de la misión “El martillo de Vulcán” si entregas los planos al investigador.  
+- **Livre de recettes anarchistes**: Recompensa de la misión “Travesía ahumada” si devuelves la caja de cigarrillos a Lillian.  
+- **Aiguillon à Raptis**: Encontrado en el laboratorio de Vaughn durante la misión “El aprendiz alquimista”.  
+- **Fusil à silex d’Irion**: Regalo del capitán Irion durante la misión “Seguimiento médico”.  
+- **Matraque de dresseur de primates**: Encontrada detrás de una roca en la zona sur de Scylla.  
+- **Couteau de table**: Encontrado en la casa de los Mather durante la misión “El pueblo oculto”.  
+- **Rapti-non**: Encontrado cerca de un cadáver en la zona de Monarca llamada “El barril del héroe”.  
+- **Kit d’euthanasie**: Encontrado en el cadáver de un iconoclasta cerca de las ediciones Terra‑1 durante la misión “El precio de la prensa”.  
+- **Rayon anti-mantes**: Encontrado en la guarida de los mantisaurios al noroeste de Fallbrook.  
+- **Lance-pourpreille**: En el piso de un edificio de Cascadia. Necesitas 65 de habilidad en ganzúas para acceder.  
+- **Le sucre d’orge**: Recuperado del cadáver de Herbert en el refugio del puente de Cascadia. Para llegar: sube al techo de la fábrica Rizzo, cruza el muro, usa el ascensor lateral y, abajo, necesitas 40 de habilidad en ganzúas para entrar al refugio.  
+- **Trancheur à plasma SubLight**: Vendido por Lyanna Reed en Fallbrook.  
+- **Fendoir de Clive**: Recompensa de la misión “Baile con los porkystes”.  
+- **Tonnerre**: Encontrado en el barracón del E3 durante la misión “Mandíbulas diabólicas”.  
+- **Le Marteau d’Olympe**: Encontrado entre dos bloques de piedra en la zona de la Roca Hendida, al norte de la estación del Pico del Diablo.  
+- **Saisisseur de Sauthon MSI**: Recompensa de la misión “Mañana los cánidos” si entregas el módulo a Sanjar.  
+- **Le Petit Mot**: Recompensa de la misión “Mañana los cánidos” si entregas el módulo a Graham o a Zora.  
+- **Douce Voix**: Recompensa de la misión “Mañana los cánidos” si negocias una tregua entre MSI y los Iconoclastas.  
+- **L’exterminateur**: Vendido por Winston Forsythe en su tienda de Bizancio.  
+- **Avis de licenciement**: Vendido por Winston Forsythe en su tienda de Bizancio.  
+- **Le Négociateur**: Encontrado en tu escritorio a bordo del Impostor después de la misión “Experiencias quiméricas”, siempre que hayas eliminado al Dr. Chartrand y completado previamente la misión “Clive el carnicero” para Catherine.  
+- **Phorce de Phin**: Encontrado en la oficina de Phinéas Welles durante la misión “Secreto, pero no olvidado” si te aliaste con Phinéas.  
+- **Anti-pauvres**: Vendido por Perceval Platt en la sede del HCC después de completar la misión “Señal de larga distancia”.  
+- **Latinus**: Vendido por Perceval Platt en la sede del HCC después de completar la misión “Señal de larga distancia”.  

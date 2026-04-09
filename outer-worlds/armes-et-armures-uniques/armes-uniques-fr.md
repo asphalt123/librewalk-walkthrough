@@ -1,0 +1,38 @@
+
+## Localisation des armes
+
+- **Maxwell** – Achetez-le à Julius Moreau au magasin général d’Edgewater.  
+- **Quinte** – Achetez-le à Stefan Garcia au laboratoire de botanique de la Vallée d’Émeraude.  
+- **Pétoire** – Récupérez-la près d’un cadavre dans le nid de primates, au nord de la Vallée d’Émeraude.  
+- **Lam à manch** – Trouvez‑la sur le cadavre du Dr Maybell pendant la quête « Une poignée d’empreintes digitales ».  
+- **Longue‑vue** – Obtenez‑la en éliminant Grace Romero à l’entrée du laboratoire botanique de la Vallée d’Émeraude.  
+- **Bâton électrique** – Récompense de la quête « A bat les robots ! ».  
+- **Assistant récupérateur** – Achetez‑le à Gladys sur le Précurseur.  
+- **Montag** – Récupérez‑le sur le cadavre du capitaine MacRedd pendant la quête « Qui va là ? ».  
+- **Silencieux** – Récupérez‑le sur le cadavre de Frey pendant la quête « Silence radio ».  
+- **Ultimatum** – Première récompense de la quête « Le marteau de Vulcain » si vous remettez les plans de l’arme au chercheur.  
+- **Ulti‑nature** – Deuxième récompense de la même quête, sous les mêmes conditions.  
+- **Livre de recettes anarchistes** – Récompense de la quête « Périple enfumé » si vous rendez l’étui à cigarettes à Lillian.  
+- **Aiguillon à Raptis** – Trouvé dans le laboratoire de Vaughn pendant la quête « L’apprenti alchimiste ».  
+- **Fusil à silex d’Irion** – Offert par le capitaine Irion lors de la mission « Suivi médical ».  
+- **Matraque de dresseur de primates** – Trouvée derrière un rocher dans la partie sud de Scylla.  
+- **Couteau de table** – Trouvé dans la maison des Mather pendant la quête « Le peuple caché ».  
+- **Rapti‑non** – Trouvé près d’un cadavre dans la zone de Monarque, appelée Le baroud du héros.  
+- **Kit d’euthanasie** – Récupérez‑le sur le cadavre d’un iconoclaste près des éditions Terra‑1 pendant la quête « Le prix de la presse ».  
+- **Rayon anti‑mantes** – Trouvé dans l’antre de Mantisaures au nord‑ouest de Fallbrook.  
+- **Lance‑pourpreille** – Située à l’étage d’un bâtiment de Cascadia (compétence de crochetage ≥ 65 requise).  
+- **Sucre d’orge** – Récupéré sur le cadavre d’Herbert dans le refuge du pont de Cascadia.  
+  - Accédez‑y en vous rendant sur le toit de l’usine Rizzo, franchissez la muraille, prenez l’ascenseur latéral, puis utilisez une compétence de crochetage ≥ 40 pour entrer dans le refuge.  
+- **Trancheur à plasma SubLight** – Achetez‑le à Lyanna Reed à Fallbrook.  
+- **Fendoir de Clive** – Récompense de la quête « Danse avec les porkystes ».  
+- **Tonnerre** – Trouvé dans le baraquement de l’E3 pendant la mission « Mandibules diaboliques ».  
+- **Marteau d’Olympe** – Trouvé entre deux blocs de pierre dans la zone du rocher fendu, au nord de la station du Pic du Diable.  
+- **Saisisseur de Sauthon MSI** – Récompense de la quête « Demain les canidés » si vous donnez le module à Sanjar.  
+- **Petit Mot** – Récompense de la même quête si vous donnez le module à Graham ou à Zora.  
+- **Douce Voix** – Récompense de la même quête si vous parvenez à négocier une trêve entre MSI et les Iconoclastes.  
+- **Exterminateur** – Achetez‑le à Winston Forsythe dans son magasin de Byzance.  
+- **Avis de licenciement** – Achetez‑le à Winston Forsythe dans son magasin de Byzance.  
+- **Négociateur** – Trouvé sur votre bureau à bord de l’Imposteur après la quête « Expériences chimériques », à condition d’avoir éliminé le Dr Chartrand et d’avoir accompli la mission « Clive le boucher » pour Catherine.  
+- **Phorce de Phin** – Trouvé dans le bureau de Phinéas Welles pendant la quête « Secret, mais pas oublié » si vous êtes allié avec Phinéas.  
+- **Anti‑pauvres** – Achetez‑le à Perceval Platt au siège du HCC après avoir terminé la quête « Signal longue distance ».  
+- **Latinus** – Achetez‑le à Perceval Platt au même endroit et sous les mêmes conditions.  
